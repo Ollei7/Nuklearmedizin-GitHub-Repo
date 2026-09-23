@@ -27,7 +27,7 @@ Insgesamt also rund **9–10 Doppelstunden** (18–20 Stunden) – etwas mehr al
 
 ## Voraussetzungen
 
-Kern-Hülle-Modell, Periodensystem und Isotopbegriff (Chemie Klasse 9). Zur Wiederholung eignet sich die PhET-Simulation „Atome bauen“. Die Nuklidschreibweise wird im [Infotext Zerfallsreihen](#info-zerfallsreihen) noch einmal eingeführt. Die Strahlungsarten werden in Modul 0 eingeführt, nicht vorausgesetzt.
+Kern-Hülle-Modell, Periodensystem und Isotopbegriff (Chemie Klasse 9). Zur Wiederholung eignet sich die PhET-Simulation „Atome bauen“. Die Nuklidschreibweise wird im Arbeitsblatt Zerfallsreihen noch einmal eingeführt. Die Strahlungsarten werden in Modul 0 eingeführt, nicht vorausgesetzt.
 
 ## Agile Elemente
 
