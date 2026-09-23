@@ -20,7 +20,7 @@ Die Szintigraphie ist ein Verfahren, bei dem ein radioaktives Präparat genutzt 
 
 Um die Verteilung des Tracers im Körper abzubilden, benutzt man eine **Gammakamera**:
 
-![Schema einer Gammakamera: Kollimator, Szintillationskristall, Photomultiplier, Auswerteelektronik](assets/gammakamera_neu.jpg "Prinzipieller Aufbau einer Gammakamera ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.da), Lars Jødal)")
+![Schema einer Gammakamera: Kollimator, Szintillationskristall, Photomultiplier, Auswerteelektronik](assets/gammakamera.jpg "Prinzipieller Aufbau einer Gammakamera ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.da), Lars Jødal)")
 
 - Die Gammastrahlung geht vom Körper der Patientin aus und erzeugt einen **Lichtblitz**, wenn sie auf den **Szintillationskristall** trifft.
 - Lichtempfindliche Detektoren (**Photomultiplier**) registrieren den Blitz und leiten ihn an eine **Auswerteelektronik** weiter, die die Impulse pro Zeit (**Zählrate**) ermittelt.
