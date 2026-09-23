@@ -1,6 +1,6 @@
 ---
 id: raster-modul1
-title: Bewertungsraster – Wandkarten zum Strahlenschutz
+title: Bewertungsraster · Wandkarten zum Strahlenschutz
 nav: Bewertungsraster · Modul I
 group: Modul I
 order: 29

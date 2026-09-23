@@ -1,10 +1,10 @@
 ---
 id: info-effektive-dosis
-title: Pfad 1 – Station 3 – Risiko-Nutzen-Abwägung: Was ist viel, was ist wenig Strahlung?
-nav: B1 – Station 3 · Risiko-Nutzen-Abwägung
+title: Pfad 1 · Station 3 – Risiko-Nutzen-Abwägung: Was ist viel, was ist wenig Strahlung?
+nav: B1 · Station 3 · Risiko-Nutzen-Abwägung
 group: Modul II
 order: 34
-badge: Modul II · Station 4 · beide Pfade
+badge: Modul II · Pfad 1 · Station 4
 mod: 2
 ---
 
@@ -62,4 +62,4 @@ Die folgende Tabelle zeigt die effektive Dosis verschiedener Situationen:
 !!! tipp "Ohne Internet"
     Die Broschüren sind kurze PDF-Dateien. Die Lehrkraft kann sie vorab herunterladen und über IServ bereitstellen.
 
-<small>Nach: NUN – Unterrichtseinheit Nuklearmedizin, 12a/12b-AB-effektive-Dosis (Stand 23.06.2026). Dosiswerte: BfS (Strahlenexposition in Deutschland), Orientierungshilfen Röntgen/Nuklearmedizin; die Angabe zur effektiven Dosis der Radioiodtherapie wurde gegenüber dem Ausgangsmaterial korrigiert (siehe Lehrkräfte-Seite „Fachliche Prüfung“). Abbildung: BfS.</small>
+

@@ -1,7 +1,7 @@
 ---
 id: ab-vergleich-strahlungsarten
 title: AR-Experiment – Strahlungsarten
-nav: B - Arbeitsblatt · AR-Experiment Strahlunsgarten
+nav: B · Arbeitsblatt - AR-Experiment - Strahlunsgarten
 group: Modul I
 order: 22
 badge: Modul I · Arbeitsblatt
@@ -16,7 +16,7 @@ Mit der App **Radiation Protection** (Augmented Reality) führt ihr einen klassi
 !!! info "App und Marker"
     Download, Bildmarker (PDF) und Kurzanleitung: [strahlenschutzkurse.de – Augmented-Reality-Experimente](https://www.strahlenschutzkurse.de/de/behoerden-schulen/angebote-fuer-schulen/augmented-reality-experimente). Die Marker **nicht laminieren** (Reflexe stören die Kamera). Erkennt die App einen verschobenen Marker nicht sofort, Kamera näher heranführen. Läuft die App ruckelig: im Menü (drei Punkte oben rechts) die Qualität herabsetzen.
 
- ## Aufbau
+## Aufbau
 
 Stelle die jeweilige Quelle und das Zählrohr voreinander auf.
 
@@ -28,4 +28,4 @@ Stelle die jeweilige Quelle und das Zählrohr voreinander auf.
 ## Auswertung
 
 3. Finde mithilfe deiner Messung und deiner Tabelle (Modul = - Arbeitspaket B) heraus, um welche Strahlungsart es sich bei den jeweiligen Quellen handelt. Begründe deine Zuordnung. Berücksichtige die Nullrate.
-4. Ergänze die verschiedenen Präparate Am-241, Sr-90, Ra-226 und Co-60 als Beispiele in Deiner Tabelle.
+4. Ergänze die verschiedenen Präparate Am-241, Sr-90, Ra-226 und Co-60 als Beispiele in deiner Tabelle.

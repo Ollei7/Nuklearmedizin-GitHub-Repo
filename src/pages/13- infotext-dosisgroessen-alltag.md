@@ -1,10 +1,11 @@
 ---
 id: infotext-dosisgroessen-alltag
-title: Infotext – Energiedosis, Äquivalentdosis und effektive Dosis
-nav: C - Infotext · Dosisgrößen
+title: Infotext - Energiedosis, Äquivalentdosis und effektive Dosis
+nav: C · Infotext - Dosisgrößen
 group: Modul 0
 order: 14
 badge: Modul 0 · Infotext
+mod: 0
 ---
 
 %% Hinweis für die Redaktion: order/group ggf. an eure bestehende Seitenreihenfolge anpassen.

@@ -1,7 +1,7 @@
 ---
 id: ab-abschirmung-simulation
 title: Simulation – Abschirmung von γ-Strahlung
-nav: C1 - Arbeitsblatt · Simulation Abschirmung
+nav: C1 · Arbeitsblatt - Simulation Abschirmung
 group: Modul I
 order: 24
 badge: Modul I · Arbeitsblatt
@@ -15,7 +15,7 @@ Mit einer realitätsnahen **GeoGebra-Simulation** untersuchst du, wie gut Blei (
 
 ## Aufbau
 
-Die Simulationen:
+Die Simulationen:<br>
 - Abschirmung durch **Blei**: [geogebra.org/m/kz97spk2](https://www.geogebra.org/m/kz97spk2)
 - Abschirmung durch **Eisen**: [geogebra.org/m/mffspduv](https://www.geogebra.org/m/mffspduv)
 
@@ -55,4 +55,3 @@ Die Simulationen:
 
     Erstelle daraus ein Diagramm ($x$-Achse: Schichtdicke, $y$-Achse: Netto-Zählrate) und vergleiche es mit dem Diagramm für $\gamma$-Strahlung durch Blei. Was ist anders?
 
-<small>Nach: NUN – Unterrichtseinheit Nuklearmedizin, 04-AB-Simulation zur Abschirmung von Strahlung (Stand 23.06.2026).</small>

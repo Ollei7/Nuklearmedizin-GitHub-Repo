@@ -4,7 +4,7 @@ title: Pfad 1 · Station 1 – Wie entsteht ein Szintigramm?
 nav: B1 · Station 1 · Szintigramm
 group: Modul II
 order: 32
-badge: Modul II · Pfad A · Station 2
+badge: Modul II · Pfad 1 · Station 2
 mod: 2
 ---
 
@@ -49,4 +49,4 @@ Um die Verteilung des Tracers im Körper abzubilden, benutzt man eine **Gammakam
 !!! zusatz "Zum Weiterdenken: Aktivität und Zählrate (optional)"
     Die Gammakamera registriert nur einen Bruchteil der ausgesandten Strahlung – der Rest fliegt an ihr vorbei oder wird im Kollimator absorbiert. Deshalb ist die **Zählrate** immer kleiner als die **Aktivität** des Präparats. Mehr dazu im [Infotext Aktivität, Zählrate und Halbwertszeit](#info-halbwertszeit).
 
-<small>Nach: NUN – Unterrichtseinheit Nuklearmedizin, 08a-AB-Szintigraphie-Verfahren (Stand 23.06.2026). Bilder: Bionerd (CC BY-SA 3.0, Wikimedia Commons); Schema nach quizlet.com; Szintigramme praxis-nuramed.de (Schilddrüse) und NUN-Material (Skelett).</small>
+

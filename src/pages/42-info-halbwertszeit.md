@@ -1,6 +1,6 @@
 ---
 id: info-halbwertszeit
-title: Infotext – Aktivität, Zählrate und Halbwertszeit
+title: Infotext · Aktivität, Zählrate und Halbwertszeit
 nav: Infotext · Aktivität, Zählrate, Halbwertszeit
 group: Modul II
 order: 41

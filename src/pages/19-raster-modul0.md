@@ -1,6 +1,6 @@
 ---
 id: raster-modul0
-title: Bewertungsraster – Erklärkarte fürs Wartezimmer
+title: Bewertungsraster · Erklärkarte fürs Wartezimmer
 nav: Bewertungsraster · Modul 0
 group: Modul 0
 order: 19

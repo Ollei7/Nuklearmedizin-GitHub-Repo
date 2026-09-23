@@ -1,10 +1,10 @@
 ---
 id: b-halbwertszeit
-title: Pfad 2 · Station 2 – I-131 und Halbwertszeit
-nav: B2 · Station 2 · I-131 und Halbwertszeit
+title: Pfad 2 · Station 2 – I-131: Zerfall und Halbwertszeit
+nav: B2 · Station 2 · Zerfall und Halbwertszeit
 group: Modul II
 order: 38
-badge: Modul II · Pfad B · Station 3
+badge: Modul II · Pfad 2 · Station 2
 mod: 2
 ---
 

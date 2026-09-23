@@ -1,16 +1,16 @@
 ---
 id: b-kontext
-title: A2 – Patientin 2 und die Radioiodtherapie
+title: Pfad 2 · Patientin 2 - Grundlagen der Radioiodtherapie
 nav: A2 · Grundlagen
 group: Modul II
 order: 36
-badge: Modul II · Pfad B · Station 1
+badge: Modul II · Pfad 2
 mod: 2
 ---
 
-Während einer Routineuntersuchung wurde bei eurer Patientin Schilddrüsenkrebs festgestellt. Beim Arztgespräch hat sie erfahren, dass die Behandlung einige Wochen dauert und sie radioaktives Iod verabreicht bekommt. Eure Patientin ist verunsichert: **Wie funktioniert die Therapie? Warum ausgerechnet Iod? Was heißt das für ihre Gesundheit – muss sie sich auf Nebenwirkungen einstellen?**
+Während einer Routineuntersuchung wurde bei eurer Patientin Schilddrüsenkrebs festgestellt. Beim Arztgespräch hat sie erfahren, dass die Behandlung einige Wochen dauert und sie radioaktives Iod verabreicht bekommt. Eure Patientin ist verunsichert: "Wie funktioniert die Therapie? Warum ausgerechnet Iod? Was heißt das für meine Gesundheit – muss ich mich auf Nebenwirkungen einstellen?"
 
-Der Arzt gibt ihr das folgende Informationsblatt mit.
+Ihr gebt ihr das folgende Informationsblatt.
 
 ## Aufgaben
 
@@ -39,4 +39,4 @@ Lest das Informationsblatt und beantwortet damit die Fragen eurer Patientin. Not
 
 
 
-Hinweis: Das Informationsblatt ist ein Unterrichtsmaterial und ersetzt keine ärztliche Aufklärung.</small>
+</small>Hinweis: Das Informationsblatt ist ein Unterrichtsmaterial und ersetzt keine ärztliche Aufklärung.</small>

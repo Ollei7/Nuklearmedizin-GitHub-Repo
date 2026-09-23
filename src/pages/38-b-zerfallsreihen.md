@@ -1,10 +1,10 @@
 ---
 id: b-zerfallsreihen
-title: Pfad B · Station 5 – Zerfallsreihe und Nuklidkarte
-nav: Pfad B · Station 5 · Zerfallsreihe und Nuklidkarte
+title: Pfad 2 · Station 4 – Zerfallsreihe und Nuklidkarte
+nav: B2 · Station 4 · Zerfallsreihe und Nuklidkarte
 group: Modul II
 order: 40
-badge: Modul II · Pfad B · Station 5
+badge: Modul II · Pfad 2 · Station 4
 mod: 2
 ---
 
@@ -31,7 +31,7 @@ In der **Nuklidkarte** hat jedes Nuklid ein Feld. Auf der Rechtachse ist die **N
 | Farbe | Bedeutung | Schritt in der Karte |
 | --- | --- | --- |
 | grau | stabil | – |
-| blau | β⁻-Zerfall | eine Spalte nach **rechts**, eine Zeile nach **unten** |
+| blau | β⁻-Zerfall | eine Spalte nach **links**, eine Zeile nach **oben** |
 | orange | α-Zerfall | zwei Spalten nach **links**, zwei Zeilen nach **unten** |
 
 !!! info "Online-Nuklidkarte"

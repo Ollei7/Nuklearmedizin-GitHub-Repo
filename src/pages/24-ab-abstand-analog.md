@@ -1,7 +1,7 @@
 ---
 id: ab-abstand-analog
 title: Experiment – Abstandsgesetz mit Licht (Analogexperiment)
-nav: C2 - Arbeitsblatt · Abstandsgesetz mit Licht
+nav: C2 · Arbeitsblatt - Abstandsgesetz mit Licht
 group: Modul I
 order: 27
 badge: Modul I · Arbeitsblatt
@@ -65,5 +65,5 @@ Im Experiment wird eine **Solarzelle** mit dem Licht der Lampe bestrahlt. Der Ab
 6. Eine Regel des Strahlenschutzes lautet: „**A**bstand so groß wie möglich.“ Begründe diese Regel vor dem Hintergrund deines Experiments.
 
 
-!! info [^1]"Voraussetzungen des Modells"
+!! info [^1] "Voraussetzungen des Modells"
     Das Abstandsgesetz gilt streng nur für eine punktförmige Quelle, geradlinige Ausbreitung und ohne Absorption in der Luft. Für Alphastrahlung, die in Luft schon nach wenigen Zentimetern verschluckt wird, weicht die Messung deshalb deutlich vom Gesetz ab – ein Beispiel dafür, dass Modelle Grenzen haben. Für Licht einer kleinen Lampe gilt das Gesetz dagegen sehr gut – deshalb funktioniert das Analogexperiment.

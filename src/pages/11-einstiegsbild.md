@@ -1,10 +1,10 @@
 ---
 id: einstiegsbild
 title: Einstiegsbild "Patientin beim Zahnarzt"
-nav: A - Einstiegsbild "Patientin beim Zahnarzt"
+nav: A · Einstiegsbild "Patientin beim Zahnarzt"
 group: Modul 0
 order: 11
-badge: Modul 0 · Infotext
+badge: Modul 0 · Einstieg
 mod: 0
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: ab-ar-experimente
-title: AR-Experimente – Abschirmung
-nav: C1 - Arbeitsblatt · AR-Experiment Abschirmung
+title: AR-Experiment – Abschirmung
+nav: C1 · Arbeitsblatt - AR-Experiment - Abschirmung
 group: Modul I
 order: 25
 badge: Modul I · Arbeitsblatt
@@ -52,5 +52,3 @@ Stelle die Quelle (Co-60) und das Zählrohr in einem Abstand von ca. 25 cm vorei
     | Impulse in 30 s | 8868 | 5338 | 2794 | 1191 | 496 | 152 | 49 |
 
     Erstelle daraus ein Diagramm ($x$-Achse: Schichtdicke, $y$-Achse: Netto-Zählrate) und vergleiche es mit dem Diagramm für $\gamma$-Strahlung durch Blei. Was ist anders?
-
-<small>Nach: NUN – Unterrichtseinheit Nuklearmedizin, 04-Exp-AR-Abschirmung und Material zu AB 08b (Stand 23.06.2026); App „Radiation Protection“ der Strahlenschutzkurse (Leibniz Universität Hannover).</small>

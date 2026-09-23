@@ -1,14 +1,14 @@
 ---
 id: a-kontext
-title: A1 – Patientin 1 und die Szintigraphie
+title: Pfad 1 · Patientin 1 - Grundlagen der Szintigraphie
 nav: A1 · Grundlagen
 group: Modul II
 order: 31
-badge: Modul II · Pfad A · Station 1
+badge: Modul II · Pfad 1
 mod: 2
 ---
 
-Eure Patientin muss ihre Schilddrüse untersuchen lassen. Sie hat gehört, dass dabei radioaktive Substanzen zum Einsatz kommen und Gammastrahlung verwendet wird. Nun möchte sie wissen: **Wie läuft eine Szintigraphie ab? Warum wird ausgerechnet ein Gammastrahler eingesetzt? Und auf welche Strahlenbelastung muss sie sich einstellen?**
+Eure Patientin muss ihre Schilddrüse untersuchen lassen. Sie hat gehört, dass dabei radioaktive Substanzen zum Einsatz kommen und Gammastrahlung verwendet wird. Nun möchte sie wissen: "Wie läuft eine Szintigraphie ab? Warum wird ausgerechnet ein Gammastrahler eingesetzt? Und auf welche Strahlenbelastung muss ich mich einstellen?"
 
 Ihr Facharzt gibt ihr das folgende Informationsblatt mit.
 
@@ -39,4 +39,4 @@ Lest das Informationsblatt und bearbeitet die Aufgaben. Notiert die Antworten so
     **Auf einen Blick.** Die Schilddrüsen-Szintigraphie ist sicher und schmerzfrei. Die Strahlenbelastung ist gering. Die Untersuchung liefert wichtige Informationen über die Funktion der Schilddrüse. Wenn Sie Fragen haben, sprechen Sie bitte mit Ihrem Behandlungsteam.
 
 
-Hinweis: Das Informationsblatt ist ein Unterrichtsmaterial und ersetzt keine ärztliche Aufklärung.</small>
+</small>Hinweis: Das Informationsblatt ist ein Unterrichtsmaterial und ersetzt keine ärztliche Aufklärung.</small>

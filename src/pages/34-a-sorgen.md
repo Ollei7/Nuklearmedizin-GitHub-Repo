@@ -1,10 +1,10 @@
 ---
 id: a-sorgen
-title: Pfad 1 · Station 4 – Sorgen verstehen, Risiken einordnen
+title: Pfad 1 · Station 4 – Zerfallsreihe und Schutz - Sorgen verstehen, Risiken einordnen
 nav: B1 · Station 4 · Zerfallsreihe und Schutz
 group: Modul II
 order: 35
-badge: Modul II · Pfad A · Station 5
+badge: Modul II · Pfad 1 · Station 4
 mod: 2
 ---
 
@@ -15,7 +15,7 @@ Eure Patientin stimmt der Untersuchung zu. Trotzdem macht sie sich Sorgen: Radio
 Ist bei einem radioaktiven Zerfall das Tochternuklid selbst wieder radioaktiv, zerfällt es weiter – so entsteht eine **Zerfallsreihe**, die erst bei einem stabilen Nuklid endet. Jedes Glied hat seine eigene Halbwertszeit und Strahlungsart.
 
 **Beispiel:** 
-${}^{131}\mathrm{Te} \xrightarrow{\beta^-,\ 25\ \mathrm{min}} {}^{131}\mathrm{I} \xrightarrow{\beta^-\!+\gamma,\ 8\ \mathrm{d}} {}^{131}\mathrm{Xe}$ (stabil)
+${}^{131}\mathrm{Te} \xrightarrow{\beta^-,\ 25\ \mathrm{min}} {}^{131}\mathrm{I} \xrightarrow{\beta^-\,\ 8\ \mathrm{d}} {}^{131}\mathrm{Xe}$ (stabil)
 
 
 ## Die Zerfallsreihe des Technetiums
@@ -32,7 +32,7 @@ In der **Nuklidkarte** hat jedes Nuklid ein Feld. Auf der Rechtachse ist die **N
 | Farbe | Bedeutung | Schritt in der Karte |
 | --- | --- | --- |
 | grau | stabil | – |
-| blau | β⁻-Zerfall | eine Spalte nach **rechts**, eine Zeile nach **unten** |
+| blau | β⁻-Zerfall | eine Spalte nach **links**, eine Zeile nach **oben** |
 | orange | α-Zerfall | zwei Spalten nach **links**, zwei Zeilen nach **unten** |
 
 !!! info "Online-Nuklidkarte"

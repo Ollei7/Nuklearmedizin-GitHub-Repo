@@ -1,6 +1,6 @@
 ---
 id: modul0
-title: Modul 0 – Warum trägt man beim Zahnarzt eine Bleischürze?
+title: Modul 0 · Warum trägt man beim Zahnarzt eine Bleischürze?
 nav: Modul 0 · Röntgen & Strahlenwirkung
 group: Modul 0
 order: 10

@@ -8,7 +8,7 @@ badge: Modul II · Bewertungsraster
 mod: 2
 ---
 
-Dieses Raster gilt für das Lernprodukt **Patienteninformation** (Faltblatt, Erklärvideo oder digitale Seite – Pfad A oder Pfad B). Es wird vor Beginn des Sprints mit der Klasse besprochen – die Kriterien sind dieselben, die auf der Modulseite als <span class="kr">Kriterien</span> markiert sind.
+Dieses Raster gilt für das Lernprodukt **Patienteninformation** (Faltblatt, Erklärvideo oder digitale Seite – Pfad 1 oder Pfad 2). Es wird vor Beginn des Sprints mit der Klasse besprochen – die Kriterien sind dieselben, die auf der Modulseite als <span class="kr">Kriterien</span> markiert sind.
 
 **Team / Gruppe:** ____________________ &nbsp;&nbsp; **Teammitglieder:** ______________________________ &nbsp;&nbsp; **Datum:** __________
 

@@ -1,10 +1,10 @@
 ---
 id: b-physik
-title: B2 · Station 1 – Wie funktioniert eine Radioiodtherapie?
+title: Pfad 2 · Station 1 – Wie funktioniert eine Radioiodtherapie?
 nav: B2 · Station 1 · Radioiodtherapie
 group: Modul II
 order: 37
-badge: Modul II · Pfad B · Station 2
+badge: Modul II · Pfad 2 · Station 1
 mod: 2
 ---
 
@@ -36,4 +36,4 @@ Eure Patientin erzählt ihrer Tochter vom Arztgespräch. Die Tochter überlegt: 
 !!! zusatz "Zum Weiterdenken: Warum wirkt die Betastrahlung nur lokal? (optional)"
     Ein Betateilchen aus dem I-131-Zerfall hat im Mittel eine Energie von etwa 0,2 MeV, höchstens 0,6 MeV. Im Gewebe wird es auf einer Strecke von durchschnittlich 0,4 mm, maximal etwa 2 mm abgebremst. Die Energie landet also fast vollständig in dem Gewebe, das das Iod gespeichert hat – genau dort, wo sie hin soll. Die Gammastrahlung (364 keV) verlässt dagegen zum großen Teil den Körper; sie liefert das Bild, ist aber auch der Grund für Abstand und Krankenhaus.
 
-<small>Nach: NUN – Unterrichtseinheit Nuklearmedizin, 08b-AB-Radiojodtherapie-physikalische-Grundlagen (Stand 23.06.2026); Rechtsgrundlage § 122 StrlSchV und Richtlinie Strahlenschutz in der Medizin.</small>
+

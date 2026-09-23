@@ -1,6 +1,6 @@
 ---
 id: modul1
-title: Modul I – Wie schützt man sich vor Strahlung?
+title: Modul I · 5 A - Wie schützt man sich vor Strahlung?
 nav: Modul I · Strahlenschutz (5 A)
 group: Modul I
 order: 20
