@@ -4,7 +4,7 @@ title: Pfad 1 · Station 1 – Wie entsteht ein Szintigramm?
 nav: B1 · Station 1 · Szintigramm
 group: Modul II
 order: 32
-badge: Modul II · Pfad 1 · Station 2
+badge: Modul II · Pfad 1 · Station 1
 mod: 2
 ---
 

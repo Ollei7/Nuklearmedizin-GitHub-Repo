@@ -4,7 +4,7 @@ title: Pfad 1 · Station 2 – Tc-99m: Zerfall und Halbwertszeit
 nav: B1 · Station 2 · Zerfall und Halbwertszeit
 group: Modul II
 order: 33
-badge: Modul II · Pfad 1 · Station 3
+badge: Modul II · Pfad 1 · Station 2
 mod: 2
 ---
 

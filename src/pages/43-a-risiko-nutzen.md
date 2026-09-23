@@ -1,10 +1,10 @@
 ---
-id: info-effektive-dosis
+id: a-info-effektive-dosis
 title: Pfad 1 · Station 3 – Risiko-Nutzen-Abwägung: Was ist viel, was ist wenig Strahlung?
 nav: B1 · Station 3 · Risiko-Nutzen-Abwägung
 group: Modul II
 order: 34
-badge: Modul II · Pfad 1 · Station 4
+badge: Modul II · Pfad 1 · Station 3
 mod: 2
 ---
 

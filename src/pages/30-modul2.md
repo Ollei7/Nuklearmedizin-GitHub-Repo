@@ -4,7 +4,7 @@ title: Modul II – Zwei Fallgeschichten: Szintigraphie und Radioiodtherapie
 nav: Modul II · Fallgeschichten
 group: Modul II
 order: 30
-badge: Modul II · 4 Doppelstunden · zwei Pfade
+badge: Modul II · 4 Doppelstunden
 mod: 2
 ---
 
