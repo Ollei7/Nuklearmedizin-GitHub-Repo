@@ -3,25 +3,41 @@ id: a-sorgen
 title: Pfad 1 · Station 4 – Sorgen verstehen, Risiken einordnen
 nav: B1 · Station 4 · Zerfallsreihe und Schutz
 group: Modul II
-order: 34
+order: 35
 badge: Modul II · Pfad A · Station 5
 mod: 2
 ---
 
-Frau A. stimmt der Untersuchung zu. Trotzdem macht sie sich Sorgen: Radioaktive Substanzen werden in ihren Körper gespritzt – was passiert damit? Und was, wenn sie sich danach falsch verhält?
+Eure Patientin stimmt der Untersuchung zu. Trotzdem macht sie sich Sorgen: Radioaktive Substanzen werden in ihren Körper gespritzt – was passiert damit? Und was, wenn sie sich danach falsch verhält?
 
-!!! info "Vorher: Station 4"
-    Die Frage „Wie viel Strahlung bekomme ich ab – ist das viel oder wenig?“ beantwortet ihr mit dem [Infotext Effektive Dosis](#info-effektive-dosis) (Station 4). Dort findet ihr auch die Aufgaben zu Bananen, Fliegen und natürlicher Strahlenbelastung.
+## Zerfallsreihen
+
+Ist bei einem radioaktiven Zerfall das Tochternuklid selbst wieder radioaktiv, zerfällt es weiter – so entsteht eine **Zerfallsreihe**, die erst bei einem stabilen Nuklid endet. Jedes Glied hat seine eigene Halbwertszeit und Strahlungsart.
+
+**Beispiel:** 
+${}^{131}\mathrm{Te} \xrightarrow{\beta^-,\ 25\ \mathrm{min}} {}^{131}\mathrm{I} \xrightarrow{\beta^-\!+\gamma,\ 8\ \mathrm{d}} {}^{131}\mathrm{Xe}$ (stabil)
+
 
 ## Die Zerfallsreihe des Technetiums
 
-Die Kernumwandlungen rund um die Szintigraphie sind in diesem Schema dargestellt (die letzte Stufe fehlt in vielen Darstellungen im Internet):
+Die Kernumwandlungen rund um die Szintigraphie sind in diesem Schema dargestellt (die letzte Stufe fehlt):
 
-![Zerfallsschema Mo-99 → Tc-99m → Tc-99](assets/mo_tc_zerfall.png "Mo-99 → Tc-99m → Tc-99 (aus dem Generator bis in den Körper)")
+$${}^{99}_{42}\mathrm{Mo} \xrightarrow{\ \beta^-,\ 66\ \mathrm{h}\ } {}^{99\mathrm{m}}_{43}\mathrm{Tc} \xrightarrow{\ \gamma,\ 6\ \mathrm{h}\ } {}^{99}_{43}\mathrm{Tc}$$
 
-$${}^{99}_{42}\mathrm{Mo} \xrightarrow{\ \beta^-,\ 66\ \mathrm{h}\ } {}^{99\mathrm{m}}_{43}\mathrm{Tc} \xrightarrow{\ \gamma,\ 6\ \mathrm{h}\ } {}^{99}_{43}\mathrm{Tc} \xrightarrow{\ \beta^-,\ 2{,}1 \cdot 10^{5}\ \mathrm{a}\ } {}^{99}_{44}\mathrm{Ru}\ \text{(stabil)}$$
 
-Hilfe zum Lesen der Schreibweise $^{99}_{42}\mathrm{Mo}$ und zu den Zerfallsarten: [Infotext Zerfallsreihen und Nuklidkarte](#info-zerfallsreihen).
+## Die Nuklidkarte lesen
+
+In der **Nuklidkarte** hat jedes Nuklid ein Feld. Auf der Rechtachse ist die **Neutronenzahl** $N$ aufgetragen, auf der Hochachse die **Protonenzahl** $Z$. Alle Isotope eines Elements stehen also in *einer Reihe* nebeneinander. Für jedes Isotop ist die Halbwertszeit angegeben. Die Farbe zeigt die Zerfallsart:
+
+| Farbe | Bedeutung | Schritt in der Karte |
+| --- | --- | --- |
+| grau | stabil | – |
+| blau | β⁻-Zerfall | eine Spalte nach **rechts**, eine Zeile nach **unten** |
+| orange | α-Zerfall | zwei Spalten nach **links**, zwei Zeilen nach **unten** |
+
+!!! info "Online-Nuklidkarte"
+    [physik.gym-wst.de – Nuklidkarte](https://www.physik.gym-wst.de/apps/kp/03_nuklidkarte/index.html): Nuklid anklicken, Zerfallsart und Halbwertszeit ablesen, Zerfallsreihe verfolgen.
+
 
 ## Aufgaben
 
@@ -29,19 +45,8 @@ Hilfe zum Lesen der Schreibweise $^{99}_{42}\mathrm{Mo}$ und zu den Zerfallsarte
 
 **Aufgabe 2.** Begründet mit eurem Wissen über die $\beta^-$-Strahlung, weshalb Tc-99m ein Proton *mehr* als Mo-99 besitzt, aber dieselbe Massenzahl 99.
 
-**Aufgabe 3.** Beschreibt, welchen einzelnen Zerfällen Frau A. in ihrem Körper direkt ausgesetzt ist – und welchem nicht (der findet im Generator statt).
+**Aufgabe 3.** Ergänze die oben dargestellte Technetium-Zerfallsreihe bis zum stabilen Nuklid. Nutze eine Nuklidkarte.
 
-**Aufgabe 4.** Das gespritzte Technetium zerfällt im Körper in zwei Schritten. Die Strahlung des ersten Schritts wird für die Szintigraphie genutzt. Das entstehende Tc-99 ist aber selbst nicht stabil: Es ist ein Betastrahler mit einer Halbwertszeit von rund 211 000 Jahren. Begründet mit der Halbwertszeit, weshalb dieser weitere Zerfall für Frau A. gesundheitlich als unbedenklich einzuschätzen ist. (Tipp: Was bedeutet eine extrem lange Halbwertszeit für die Aktivität – also für die Zahl der Zerfälle pro Sekunde – bei gleicher Anzahl Kerne? Und: Wie viel Tc-99 bleibt überhaupt im Körper, wenn ein großer Teil ausgeschieden wird?)
+**Aufgabe 4.** Das gespritzte Technetium zerfällt im Körper in zwei Schritten. Die Strahlung des ersten Schritts wird für die Szintigraphie genutzt. Das entstehende Tc-99 ist aber selbst nicht stabil: Es ist ein Betastrahler mit einer Halbwertszeit von rund 211 000 Jahren. Begründet anhand der Zerfallsreihe, weshalb dieser weitere Zerfall für eure Patientin gesundheitlich als unbedenklich einzuschätzen ist.
 
-**Aufgabe 5 – Der kleine Sohn.** Der Facharzt weist Frau A. darauf hin, dass sie ihren kleinen Sohn in den nächsten **24 Stunden** nicht auf den Schoß nehmen sollte.
-
-1. Erklärt diese Schutzmaßnahme mit zwei der [fünf A](#info-fuenf-a) und mit dem Abstandsgesetz.
-2. Ist es sinnvoll, die Maßnahme „sicherheitshalber“ auf eine Woche auszudehnen? Rechnet mit der Halbwertszeit: Wie viel Prozent der Aktivität sind nach 24 h, nach 48 h, nach einer Woche noch vorhanden?
-3. Warum gelten für Kinder und Schwangere strengere Regeln als für Erwachsene? (Hilfe: [Infotext Biologische Strahlenwirkung](#info-bio-ausfuehrlich), Abschnitt zur Empfindlichkeit von Gewebe.)
-
-**Aufgabe 6 – Für die Patienteninformation.** Formuliert drei Verhaltensregeln für die ersten 24 Stunden nach der Szintigraphie (Abstand zu Kleinkindern und Schwangeren, viel trinken und häufig zur Toilette, Hände waschen) – jede Regel mit einer physikalischen Begründung in einem Satz.
-
-!!! zusatz "Vertiefung: Ausscheidung und effektive Halbwertszeit"
-    Neben dem physikalischen Zerfall scheidet der Körper einen Teil des Präparats aus (Niere, Blase). Die Aktivität im Körper nimmt daher schneller ab, als die physikalische Halbwertszeit von 6 h vermuten lässt. Man spricht von der **effektiven Halbwertszeit**, die kürzer ist als die physikalische. Deshalb hilft „viel trinken“ tatsächlich beim Strahlenschutz.
-
-<small>Nach: NUN – Unterrichtseinheit Nuklearmedizin, 13a-AB-Szintigraphie_und_Sorgen (Stand 23.06.2026); Zerfallsdaten Tc-99 nach der Karlsruher Nuklidkarte.</small>
+**Aufgabe 5 – Für die Patienteninformation.** Formuliert drei Verhaltensregeln für die ersten 24 Stunden nach der Szintigraphie auf Basis aller 4 Stationen – jede Regel mit einer physikalischen Begründung in einem Satz.

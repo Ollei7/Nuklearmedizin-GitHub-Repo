@@ -37,11 +37,9 @@ Um die Verteilung des Tracers im Körper abzubilden, benutzt man eine **Gammakam
 
 ## Aufgaben
 
-**Aufgabe 1 – Vom Einzeldetektor zur Kamera.** Das Verfahren wurde in den 1950er-Jahren entwickelt. Anfangs wurde der Körper mit einem **einzigen Detektor** Punkt für Punkt zeilenweise abgetastet; für jeden Punkt wurde die Intensität aufgezeichnet, sodass sich nach und nach ein Bild ergab. 
-Erläutert, warum die Gammakamera für Ärztinnen und Patientinnen eine wesentliche Verbesserung ist. Denkt an: Dauer der Untersuchung, Halbwertszeit des Präparats, Bewegungen der Patientin, Strahlenbelastung.
+**Aufgabe 1 – Vom Einzeldetektor zur Kamera.** Das Verfahren wurde in den 1950er-Jahren entwickelt. Anfangs wurde der Körper mit einem **einzigen Detektor** Punkt für Punkt zeilenweise abgetastet; für jeden Punkt wurde die Intensität aufgezeichnet, sodass sich nach und nach ein Bild ergab. Erläutert, warum die Gammakamera für Ärztinnen und Patientinnen eine wesentliche Verbesserung ist. Denkt an: Dauer der Untersuchung, Halbwertszeit des Präparats, Bewegungen der Patientin, Strahlenbelastung.
 
-**Aufgabe 2 – Warum Technetium?** Technetium ist ein Gammastrahler, der künstlich hergestellt werden muss. 
-Nennt Gründe, warum man für die Szintigraphie keinen natürlich vorkommenden Alpha- oder Betastrahler benutzt (Reichweite im Gewebe, Energieabgabe im Körper, Bildqualität). Findet weitere Gründe, warum sich Tc-99m besonders eignet (Energie, Halbwertszeit).
+**Aufgabe 2 – Warum Technetium?** Technetium ist ein Gammastrahler, der künstlich hergestellt werden muss. Nennt Gründe, warum man für die Szintigraphie keinen natürlich vorkommenden Alpha- oder Betastrahler benutzt (Reichweite im Gewebe, Energieabgabe im Körper, Bildqualität). Findet weitere Gründe, warum sich Tc-99m besonders eignet (Energie, Halbwertszeit).
 <small>Hinweis: Die Halbwertszeit wird erst in Station 2 thematisiert. Komme ggf. später zu dieser Aufgabe zurück.</small>
 
 **Aufgabe 3 – Die Rolle des Kollimators.** Erklärt in zwei Sätzen, was passieren würde, wenn man den Kollimator weglässt. Skizziert dazu zwei Strahlen von derselben Stelle der Schilddrüse aus: einen, der durch eine Öffnung fällt, und einen schrägen.

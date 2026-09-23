@@ -43,7 +43,7 @@ Unterschiedliche Strahlungsarten richten bei gleicher Energiedosis unterschiedli
 
 ## Effektive Dosis $E$
 
-Auch nicht jedes Organ ist gleich strahlenempfindlich – Knochenmark und Keimdrüsen reagieren zum Beispiel empfindlicher als die Haut. Deshalb wird die Äquivalentdosis $H$ jedes betroffenen Organs bzw. Gewebes zusätzlich mit einem Gewebe-Wichtungsfaktor $w$ multipliziert und über alle betroffenen Organe aufsummiert.
+Auch nicht jedes Organ ist gleich strahlenempfindlich – Knochenmark und Keimdrüsen reagieren zum Beispiel empfindlicher als die Haut. Deshalb wird die Äquivalentdosis $H$ jedes betroffenen Organs bzw. Gewebes zusätzlich mit einem Gewebe-Wichtungsfaktor $w$ multipliziert (man sagt auch **Organdosis**)  und über alle betroffenen Organe aufsummiert.
 
 !!! info "Definition"
     $$E = w_1 \cdot H_1 + w_2 \cdot H_2 + ...$$

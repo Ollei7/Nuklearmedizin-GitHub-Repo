@@ -3,7 +3,7 @@ id: b-kontext
 title: A2 – Patientin 2 und die Radioiodtherapie
 nav: A2 · Grundlagen
 group: Modul II
-order: 35
+order: 36
 badge: Modul II · Pfad B · Station 1
 mod: 2
 ---

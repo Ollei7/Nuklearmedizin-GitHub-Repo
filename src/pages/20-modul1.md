@@ -20,11 +20,11 @@ Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
 
 | Zeit | Im Unterricht | Zu Hause |
 | --- | --- | --- |
-|  | **Sprint-Planung:** Überblick verschaffen & **Sprint-Planung** (Zeitplanung, Scrumboard, Scrum Captain) | |
+|  | Überblick verschaffen & **Sprint-Planung:** (Zeitplanung, Scrumboard, Scrum Captain) | |
 |  | Arbeitspaket A - Infotext zu 5 A, Zuordnung der Zahnarzt-Maßnahmen | |
 |  | Arbeitspaket B - Abschirmung: Simulation oder Experiment | ggf. Diagramme fertigstellen |
 |  | Arbeitspaket C - Abstand: imulation oder Experiment | ggf. Diagramme fertigstellen |
-|  | Arbeitspaket D - Lernprodukt: Wandkarten erstellen | |
+|  | Arbeitspaket D - **Lernprodukt**: Wandkarten erstellen | |
 |  | **Review & Retro:** Karten aufhängen, Galeriegang, Retro | |
 
 ## Arbeitspakete und Kriterien

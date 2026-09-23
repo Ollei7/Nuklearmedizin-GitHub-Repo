@@ -10,7 +10,7 @@ mod: 2
 
 Zwei Frauen, zwei Wege in die Nuklearmedizin. **Patientin 1** muss ihre Schilddrüse untersuchen lassen – mit einer *Szintigraphie*, bei der ihr ein radioaktiver Stoff gespritzt wird. **Patientin 2** hat Schilddrüsenkrebs und soll mit radioaktivem Iod behandelt werden – *Radioiodtherapie*. Beide haben Fragen: Wie funktioniert das? Warum ausgerechnet Strahlung? Wie viel bekomme ich ab? Muss ich ins Krankenhaus? Darf mein Enkel auf den Schoß, darf meine schwangere Tochter zu Besuch kommen?
 
-Ihr wählt aus: Begleitet Frau A. (**Pfad 1 · Szintigraphie**) oder Herrn A. (**Pfad 2 · Radioiodtherapie**). Beide Pfade führen durch dieselbe Physik – Strahlungsarten, Halbwertszeit, Zerfallsreihen, effektive Dosis, Strahlenschutz – nur in anderer Reihenfolge und an einem anderen Fall. In Modul III erolgt Behandlungsplan-Gespräch.
+Ihr wählt aus und nehmt die Rolle des ärztlichen Personals ein: Begleitet Patientin 1 (**Pfad 1 · Szintigraphie**) oder Patientin 2 (**Pfad 2 · Radioiodtherapie**). Beide Pfade führen durch dieselbe Physik – Strahlungsarten, Halbwertszeit, Zerfallsreihen, effektive Dosis, Strahlenschutz – nur in anderer Reihenfolge und an einem anderen Fall. In Modul III erolgt Behandlungsplan-Gespräch.
 
 ## Die beiden Pfade
 
@@ -21,24 +21,39 @@ Ihr wählt aus: Begleitet Frau A. (**Pfad 1 · Szintigraphie**) oder Herrn A. (*
 
 </div>
 
-Gemeinsam für beide Pfade: [Würfelsimulation zur Halbwertszeit](#ab-wuerfel), [Infotext Aktivität, Zählrate und Halbwertszeit](#info-halbwertszeit), [Infotext Effektive Dosis](#info-effektive-dosis), [Infotext Zerfallsreihen und Nuklidkarte](#info-zerfallsreihen) und ein **Zwischenplenum** mit der ganzen Klasse zur Halbwertszeit (ggf. mit Demoexperiment).
-
 !!! warum "Warum ist das wichtig?"
     Diagnostik und Therapie mit Radionukliden sind Alltag in jeder größeren Klinik. Wer die Physik dahinter versteht, kann Merkblätter lesen, Ängste einordnen und Schutzregeln begründen – für sich und für andere.
+
+## Sprint-Plan (8 Einzelstunden)
+Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
+
+| Wann | Was |
+| --- | --- |
+| ES 1 · 20 min | Überblick verschaffen, Auswahl Fallgeschichte & **Sprint-Planung** (Scrumboard, Scrum Captain) |
+| ES 1 · 30 min | Arbeitspaket A - Fallgeschichte verstehen |
+| ES 2 · 40 min | Aufgabenpaket B - Station 1 (Grundlagen) |
+| ES 3 & 4 · 85 min | Aufgabenpaket B - Station 2 (Würfelsimulation, Halbwertszeit) |
+| ES 5 · 40 min | Aufgabenpaket B - Station 3: (Risiko-Nutzen-Abwägung) |
+|  | ggf. **Zwischenplenum (ganze Klasse):** Halbwertszeit sichern, Übungsaufgaben |
+| ES 6 · 40 min | Aufgabenpaket B - Station 4: (Zerfallsreihe, Nuklidkarte) |
+| ES 7 · 40 min | Aufgabenpaket C - **Lernprodukt**: Patienteninformation erstellen |
+| ES 8 · 30 min | **Review & Retro:** Patienteninformation an ein Team des anderen Pfads geben, Feedback („Habt ihr alles verstanden? Was fehlt?“), Retro |
+
+## Scrumboard
+Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notiert die Aufgaben (z. B. auf Post-Its) und füllt euer Scrumboard. Vorschläge dazu findet ihr am Ende der Seite.
 
 ## Arbeitspakete und Kriterien (für beide Pfade)
 
 !!! aufgabe "Arbeitspaket A · Die Fallgeschichte verstehen"
     Lest die Fallgeschichte eures Pfads und das ärztliche Informationsblatt. Sammelt alle Fragen der Patientin und ordnet sie den physikalischen Themen zu (Strahlungsart, Halbwertszeit, Dosis, Schutz, Zerfallsreihe).<br>
     A1: [Patientin 1: Szintigraphie](#a-kontext)
-    A2: [Patinetin 2: Rdioiodtherapie](#b-kontext)
+    A2: [Patinetin 2: Radioiodtherapie](#b-kontext)
     <span class="kr">Kriterium:</span> Die Fragen der Patientin sind vollständig notiert und jede ist einem Thema zugeordnet.
 
 !!! aufgabe "Arbeitspaket B · Die Physik dahinter"
-    Bearbeitet die vier Stationen eures Pfads. Am Ende muss *jede Person* alle Fragen der Patientin beantworten können.<br>
-    Startet mit Station 1.
-    B1: [Patientin 1: Szintigraphie](#a-verfahren)
-    B2: [Patinetin 2: Rdioiodtherapie](#b-physik)
+    Bearbeitet die vier Stationen eures Pfads. Am Ende muss *jede Person* alle Fragen der Patientin beantworten können. Startet mit Station 1.<br>
+        B1: [Patientin 1: Szintigraphie](#a-verfahren)
+    B2: [Patinetin 2: Radioiodtherapie](#b-physik)
     <span class="kr">Kriterien:</span> Alle Aufgaben der Stationen bearbeitet · Würfelsimulation durchgeführt und ausgewertet · Halbwertszeit am Diagramm abgelesen · effektive Dosis mit Vergleichswerten eingeordnet · Zerfallsreihe des verwendeten Nuklids aufgestellt.
 
 !!! aufgabe "Arbeitspaket C · Lernprodukt"
@@ -56,34 +71,21 @@ Gemeinsam für beide Pfade: [Würfelsimulation zur Halbwertszeit](#ab-wuerfel), 
 
     In Modul III nutzt ihr diese Information als Grundlage für das Behandlungsplan-Gespräch – und ein anderes Team liest sie als „Patientin“.
 
-## Sprint-Plan (4 Doppelstunden)
-
-| Wann | Was |
-| --- | --- |
-| DS 1 · 20 min | **Sprint-Planung:** Pfad zugeteilt, Fallgeschichte gelesen, Stationen verteilt, Scrum Captain |
-| DS 1 · 70 min | Station 1 (Grundlagen, Informationsblatt) und Station 2 (Verfahren bzw. Strahlungsart) |
-| DS 2 · 5 min | **Stand-up** |
-| DS 2 · 85 min | Station 3: Würfelsimulation, Halbwertszeit am Diagramm, Zerfallsreihe des Nuklids |
-| DS 3 · 30 min | **Zwischenplenum (ganze Klasse):** Halbwertszeit sichern, ggf. Demoexperiment |
-| DS 3 · 60 min | Station 4: Effektive Dosis, Risiko-Nutzen; Station 5: Sorgen, Schutzregeln, Zerfallsreihe/Nuklidkarte |
-| DS 4 · 5 min | **Stand-up** |
-| DS 4 · 60 min | Patienteninformation erstellen |
-| DS 4 · 25 min | **Review & Retro:** Patienteninformation an ein Team des anderen Pfads geben, Feedback („Habt ihr alles verstanden? Was fehlt?“), Retro |
 
 !!! info "So wird bewertet"
     Das [Bewertungsraster zu diesem Modul](#raster-modul2) zeigt für jedes Kriterium, was für die volle Punktzahl erwartet wird. Lest es vor der Sprint-Planung.
 
+
 ## Vorschlag für euer Scrumboard
 
-- [ ] Pfad zugeteilt, Fallgeschichte und Informationsblatt gelesen
+- [ ] Fallgeschichte gewählt und Informationsblatt gelesen
 - [ ] Fragen der Patientin gesammelt und Themen zugeordnet
-- [ ] Station 1 bearbeitet (Grundlagen)
-- [ ] Station 2 bearbeitet (Verfahren / Strahlungsart und Krankenhaus)
+- [ ] Verfahren erläutert
 - [ ] Würfelsimulation durchgeführt, Diagramm, Halbwertszeit bestimmt
 - [ ] Halbwertszeit am Diagramm des Nuklids abgelesen (Tc-99m bzw. I-131)
-- [ ] Zwischenplenum: Halbwertszeit gesichert
-- [ ] Effektive Dosis eingeordnet (Bananen, Fliegen, natürliche Belastung)
-- [ ] Zerfallsreihe aufgestellt (Mo-99 → Tc-99m → … bzw. I-131 → Xe-131), Nuklidkarte gelesen
-- [ ] Schutzregeln für die Patientin begründet (Abstand, Zeit, Aufnahme)
+- [ ] Restaktivität berechnet
+- [ ] Risiko-Nutzen-Abwägung (Effektive Dosis) 
+- [ ] Zerfallsreihe aufgestellt, Nuklidkarte gelesen
+- [ ] Schutzregeln für die Patientin begründet
 - [ ] Patienteninformation erstellt, Kriterien geprüft, Quellen notiert
 - [ ] Review mit dem anderen Pfad, Retrospektive, Scrum Captain für Modul III bestimmt

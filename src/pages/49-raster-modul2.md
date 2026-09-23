@@ -41,7 +41,7 @@ Die Skala gilt einheitlich für alle Einzelkriterien; die Erwartung bei voller P
 
 | Kriterium | Erwartung bei voller Punktzahl (6 Punkte) | Punkte |
 | --- | --- | --- |
-| **Würfelsimulation** | Messtabelle, Diagramm, Halbwertszeit der Würfelprobe bestimmt, Zufallscharakter erklärt; Analogie zum radioaktiven Zerfall korrekt. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
+| **Würfelsimulation** | Messtabelle, Diagramm, Halbwertszeit der Würfelprobe bestimmt, (ggf. Zufallscharakter erklärt; Analogie zum radioaktiven Zerfall korrekt). | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
 | **Diagramm und Nuklidkarte** | Halbwertszeit am Zählraten- bzw. Abklingdiagramm korrekt abgelesen; Zerfallsschema bzw. Nuklidkarte richtig gelesen und genutzt. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
 
 
@@ -68,12 +68,6 @@ Die Skala gilt einheitlich für alle Einzelkriterien; die Erwartung bei voller P
 | **Scrum-Elemente** | Sprint-Planung, Scrumboard, Stand-ups und Retrospektive wurden durchgeführt und dokumentiert; Aufgaben waren sinnvoll verteilt, alle Teammitglieder können das Lernprodukt erklären. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
 
 
-## Zusatzpunkte (fakultativ)
-
-| Kriterium | Erwartung bei voller Punktzahl (6 Punkte) | Punkte |
-| --- | --- | --- |
-| **Vertiefende Inhalte** | Effektive Halbwertszeit, Reichweite der Betateilchen, Generatorprinzip mit Rechnung, β⁺-Zerfall/PET oder Online-Nuklidkarte werden fachlich korrekt einbezogen. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
-
 
 ## Gesamtübersicht
 
@@ -84,10 +78,10 @@ Die Skala gilt einheitlich für alle Einzelkriterien; die Erwartung bei voller P
 | C Kommunikation und Dokumentation | | 18 |
 | D Bewertung | | 6 |
 | E Arbeitsprozess (Team) | | 6 |
-| Zusatzpunkte (fakultativ) | | 6 |
-| **Gesamt** | | **66** (+ 6 Zusatz) |
+| **Gesamt** | | **66** |
 
-**Erreichte Punkte:** ________ / 66 Punkte (Zusatzpunkte werden addiert, die Gesamtpunktzahl bleibt 66).
+**Erreichte Punkte:** ________ / 66 Punkte 
+
 
 ## Notenschlüssel
 

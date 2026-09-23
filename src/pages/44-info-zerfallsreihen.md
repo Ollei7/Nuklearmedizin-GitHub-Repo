@@ -3,7 +3,7 @@ id: info-zerfallsreihen
 title: Infotext – Kernumwandlungen, Zerfallsreihen und Nuklidkarte
 nav: Infotext · Zerfallsreihen und Nuklidkarte
 group: Modul II
-order: 44
+order: 42
 badge: Modul II · Infotext · beide Pfade
 mod: 2
 ---

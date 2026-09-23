@@ -43,7 +43,7 @@ Eine andere Situation entsteht, wenn radioaktive Stoffe in den Körper aufgenomm
 
 Insbesondere α-Strahlung ist in diesem Fall relevant: Obwohl α-Teilchen von außen nur eine sehr kurze Strecke durch Gewebe zurücklegen, geben sie auf dieser Strecke ihre Energie sehr dicht an das umgebende Material ab. Dadurch können in den betroffenen Zellen zahlreiche Ionisationen entstehen. Werden dabei Zellbestandteile oder die DNA beschädigt, können Veränderungen zurückbleiben, die von der Zelle nicht vollständig repariert werden können.
 
-![Inkorporation über Luft und Nahrung; Bestrahlung von außen durch Alpha-, Beta-, Gamma- und Neutronenstrahlung](assets/Inkorporationbild.jpg "Inkorporation (Aufnahme über Luft und Nahrung) und Bestrahlung von außen - Quelle: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de) / FWU Institut für Film und Bild")
+![Inkorporation über Luft und Nahrung; Bestrahlung von außen durch Alpha-, Beta-, Gamma- und Neutronenstrahlung](assets/Inkorporationbild.jpg "Inkorporation (Aufnahme über Luft und Nahrung) und Bestrahlung von außen - ([CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de) / FWU Institut für Film und Bild)")
 
 ## Deterministische und stochastische Schäden
 
@@ -70,7 +70,7 @@ Wenn die Erbinformation (DNA) einer Zelle verändert wird, kann die Zelle ihre e
 
 Im Strahlenschutz geht man für stochastische Wirkungen davon aus, dass es keine Dosisschwelle gibt.Es gibt daher keinen Schwellenwert, unterhalb dessen Strahlung als sicher risikolos angenommen wird. Deshalb sollte man Strahlenexpositionen, die keinen gesundheitlichen oder gesellschaftlichen Nutzen haben, vermieden werden. Stochastische Schäden können erst viele Jahre, zum Teil Jahrzehnte nach der Bestrahlung auftreten.
 
-![Diagramm: deterministische und stochastische Strahlenwirkung](assets/strahlenwirkung.jpg "Deterministische Wirkung und stochastische Wirkung - Quelle: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de) / FWU Institut für Film und Bild")
+![Diagramm: deterministische und stochastische Strahlenwirkung](assets/strahlenwirkung.jpg "Deterministische Wirkung und stochastische Wirkung ([CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de) / FWU Institut für Film und Bild)")
 
 ## Medizinische Nutzung von Strahlung
 
