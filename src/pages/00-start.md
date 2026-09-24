@@ -28,7 +28,7 @@ Um diese Fragen zu beantworten, braucht man Physik: Strahlungsarten, Halbwertsze
 Ihr arbeitet in festen **Teams** (4–5 Personen). Jedes Modul läuft nach demselben Muster ab – das nennen wir **Sprint**:
 
 <div class="sprintplan">
-<div><b>1 · Aufgabenstellung</b>Leitfrage, Warum, Arbeitspakete und Kriterien verstehen</div>
+<div><b>1 · Aufgabe</b>Leitfrage, Warum, Arbeitspakete und Kriterien verstehen</div>
 <div><b>2 · Sprint-Planung</b>Aufgaben auf dem Scrumboard verteilen</div>
 <div><b>3 · Arbeitsphase</b>Zu Beginn jeder Stunde ein kurzes Stand-up</div>
 <div><b>4 · Review</b>Lernprodukt abgeben oder vorstellen</div>

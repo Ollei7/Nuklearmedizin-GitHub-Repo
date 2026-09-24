@@ -24,6 +24,8 @@ Die Simulation: [geogebra.org/m/adnzwgbq](https://www.geogebra.org/m/adnzwgbq)
 1. Das Zählrohr wird nicht nur von der Strahlung des Präparats getroffen, sondern auch von der Umgebungsstrahlung. Ermittle zuerst die Nullrate $R_0$ (Zählrate ohne Strahler; mehrfach messen und mitteln).
 2. Ermittle mit der Simulation für die folgenden Abstände die jeweilige Zählrate (Mittelwert aus mehreren Ablesungen; Nullrate beachten).
 
+**Nullrate:** $R_0 =$ ________ $\dfrac{\mathrm{1}}{\mathrm{s}}$
+
 | Abstand $d$ in cm | 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Zählrate $R-R_0$ in $\dfrac{\mathrm{1}}{\mathrm{s}}$ | | | | | | | | |

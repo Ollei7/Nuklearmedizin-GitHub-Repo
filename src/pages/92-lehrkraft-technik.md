@@ -64,9 +64,3 @@ python3 tools/build.py
 
 Seiten entfernen (z. B. die Lehrkräfte-Seiten für die Schülerfassung): die entsprechenden `.md`-Dateien aus `src/pages` verschieben und neu bauen. Formeln werden in den Markdown-Dateien wie gewohnt mit `$…$` und `$$…$$` geschrieben; Hinweiskästen mit `!!! aufgabe "Titel"`, `!!! info`, `!!! tipp`, `!!! warnung`, `!!! video`, `!!! lernprodukt`, `!!! sprint`, `!!! zusatz`, `!!! warum`, `!!! lehrkraft`.
 
-## Lizenz- und Quellenhinweise
-
-- Texte: Bearbeitung der NUN-Unterrichtseinheit „Kernphysik im Kontext Nuklearmedizin“ (Naturwissenschaftlicher Unterricht in Niedersachsen, Stand 23.06.2026); mehrere Infotexte (biologische Strahlenwirkung, Strahlungsarten, Abstandsgesetz, Aktivität/Halbwertszeit) aus der Lerneinheit Radioaktivität übernommen; Ergänzungen teilweise KI-gestützt erstellt und fachlich geprüft – wie in den Quellenangaben der Seiten vermerkt. Die Informationsblätter für Frau A. und Frau B. sind Unterrichtsmaterial und keine ärztliche Aufklärung.
-- Abbildungen: Gammakamera-Foto Bionerd (CC BY-SA 3.0, Wikimedia Commons); Gammakamera-Schema nach quizlet.com; Szintigramm Schilddrüse praxis-nuramed.de; Tc-99m-Diagramm MSB NRW (Beispielaufgabe Abitur Physik GK); Nuklidkarten-Ausschnitt periodensystem-online.de; Kugelmodelle der Zerfallsarten, Skelettszintigramm, Radon-Zerfallskette und Radonstollen-Foto aus dem NUN-Material (Herkunft dort nicht vollständig angegeben – vor einer Weitergabe außerhalb der Schule prüfen); Übersichtstabelle Strahlungsarten und Abstandsgesetz-Grafiken aus LEIFIphysik (Joachim Herz Stiftung); Wirkungskette nach M. Täschner (IRS, Leibniz Universität Hannover); Expositionsgrafik nach BfS-Daten.
-- Simulationen: GeoGebra-Materialien kz97spk2, mffspduv, adnzwgbq (NUN); AR-App „Radiation Protection“ der Strahlenschutzkurse (Leibniz Universität Hannover).
-- Scrum-Elemente nach „Scrum in der Schule“ (Hopp Foundation / Mindshift.One).

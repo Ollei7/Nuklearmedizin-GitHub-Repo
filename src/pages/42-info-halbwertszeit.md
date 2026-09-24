@@ -1,10 +1,10 @@
 ---
 id: info-halbwertszeit
-title: Infotext · Aktivität, Zählrate und Halbwertszeit
-nav: Infotext · Aktivität, Zählrate, Halbwertszeit
+title: Infotext - Aktivität, Zählrate und Halbwertszeit
+nav: B · Infotext - Aktivität, Zählrate, Halbwertszeit
 group: Modul II
 order: 41
-badge: Modul II · Infotext · beide Pfade
+badge: Modul II · Infotext - beide Pfade
 mod: 2
 ---
 

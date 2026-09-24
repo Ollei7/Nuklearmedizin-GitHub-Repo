@@ -36,18 +36,10 @@ Im Experiment wird eine **Solarzelle** mit dem Licht der Lampe bestrahlt. Der Ab
 
 **Nulleffekt:** $I_0 =$ ________ mA
 
-| $d$ in cm | $I$ in mA | $I_{\text{korrigiert}} = I-I_0$ in mA |
-| --- | --- | --- |
-| 4,0 | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| Abstand $d$ in cm | 4,0 |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| $I$ in mA | | | | | | | | |
+| $I_{\text{korrigiert}} = I-I_0$ in mA | | | | | | | | |
 
 ## Auswertung
 

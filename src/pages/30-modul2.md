@@ -4,7 +4,7 @@ title: Modul II – Zwei Fallgeschichten: Szintigraphie und Radioiodtherapie
 nav: Modul II · Fallgeschichten
 group: Modul II
 order: 30
-badge: Modul II · 4 Doppelstunden
+badge: Modul II · 8 Einzelstunden
 mod: 2
 ---
 
@@ -47,13 +47,13 @@ Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notie
 !!! aufgabe "Arbeitspaket A · Die Fallgeschichte verstehen"
     Lest die Fallgeschichte eures Pfads und das ärztliche Informationsblatt. Sammelt alle Fragen der Patientin und ordnet sie den physikalischen Themen zu (Strahlungsart, Halbwertszeit, Dosis, Schutz, Zerfallsreihe).<br>
     A1: [Patientin 1: Szintigraphie](#a-kontext)<br>
-    A2: [Patinetin 2: Radioiodtherapie](#b-kontext)<br>
+    A2: [Patientin 2: Radioiodtherapie](#b-kontext)<br>
     <span class="kr">Kriterium:</span> Die Fragen der Patientin sind vollständig notiert und jede ist einem Thema zugeordnet.
 
 !!! aufgabe "Arbeitspaket B · Die Physik dahinter"
     Bearbeitet die vier Stationen eures Pfads. Am Ende muss *jede Person* alle Fragen der Patientin beantworten können. Startet mit Station 1.<br>
-        B1: [Patientin 1: Szintigraphie](#a-verfahren)<br>
-    B2: [Patinetin 2: Radioiodtherapie](#b-physik)<br>
+    B1: [Patientin 1: Szintigraphie](#a-verfahren)<br>
+    B2: [Patientin 2: Radioiodtherapie](#b-physik)<br>
     <span class="kr">Kriterien:</span> Alle Aufgaben der Stationen bearbeitet · Würfelsimulation durchgeführt und ausgewertet · Halbwertszeit am Diagramm abgelesen · effektive Dosis mit Vergleichswerten eingeordnet · Zerfallsreihe des verwendeten Nuklids aufgestellt.
 
 !!! aufgabe "Arbeitspaket C · Lernprodukt"

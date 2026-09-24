@@ -16,7 +16,7 @@ Mit einer realitätsnahen **GeoGebra-Simulation** untersuchst du, wie gut Blei (
 ## Aufbau
 
 Die Simulationen:<br>
-- Abschirmung durch **Blei**: [geogebra.org/m/kz97spk2](https://www.geogebra.org/m/kz97spk2)
+- Abschirmung durch **Blei**: [geogebra.org/m/kz97spk2](https://www.geogebra.org/m/kz97spk2)<br>
 - Abschirmung durch **Eisen**: [geogebra.org/m/mffspduv](https://www.geogebra.org/m/mffspduv)
 
 **Bedienung:** Kontrollkästchen *Strahler* – Strahler hinzufügen oder wegnehmen · Schieberegler *N* – Anzahl der Platten · Schieberegler *d* – Dicke jeder Platte · die aktuelle **Zählrate** wird angezeigt.
@@ -27,6 +27,8 @@ Die Simulationen:<br>
 
 1. Das Zählrohr wird nicht nur von der Strahlung des Präparats getroffen, sondern auch von der Umgebungsstrahlung. Ermittle zuerst die Nullrate $R_0$ (Zählrate ohne Strahler; mehrfach messen und mitteln). Der Abstand Zählrohr–Präparat lässt sich in der Simulation nicht verändern – auch im echten Versuch **muss** er konstant bleiben. Begründe diese Maßnahme.
 2. Bestimme die Zählrate in Abhängigkeit von der gesamten Schichtdicke $d$, die sich aus den hintereinander gestellten Bleiplatten ergibt. Berücksichtige die Nullrate.
+
+**Nullrate:** $R_0 =$ ________ $\dfrac{\mathrm{1}}{\mathrm{s}}$
 
 | Schichtdicke $d$ in cm | 0 | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

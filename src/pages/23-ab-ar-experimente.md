@@ -25,6 +25,8 @@ Stelle die Quelle (Co-60) und das Zählrohr in einem Abstand von ca. 25 cm vorei
 1. Das Zählrohr wird nicht nur von der Strahlung des Präparats getroffen, sondern auch von der Umgebungsstrahlung. Ermittle zuerst die Nullrate $R_0$ (Zählrate ohne Strahler; mehrfach messen und mitteln). 
 2. Bestimme die Zählrate in Abhängigkeit von der gesamten Schichtdicke $d$, die sich aus den hintereinander gestellten Bleiplatten ergibt. Berücksichtige die Nullrate.
 
+**Nullrate:** $R_0 =$ ________ $\dfrac{\mathrm{1}}{\mathrm{s}}$
+
 | Schichtdicke $d$ in cm | 0 | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Zählrate $R$ in $\dfrac{\mathrm{1}}{\mathrm{s}}$ | | | | | | | | | |

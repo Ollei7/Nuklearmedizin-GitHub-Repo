@@ -1,10 +1,10 @@
 ---
 id: modul3
-title: Modul III – Das Arzt-Patienten-Gespräch
-nav: Modul III · Arzt-Patienten-Gespräch
+title: Modul III · Das Aufklärungsgespräch
+nav: Modul III · Aufklärungsgespräch
 group: Modul III
 order: 50
-badge: Modul III · 1 Doppelstunde · Pfade treffen sich
+badge: Modul III · 2 Einzelstunden
 mod: 3
 ---
 
@@ -13,6 +13,20 @@ In Modul II habt ihr **eine** Patientin begleitet. Jetzt treffen sich die Pfade:
 !!! warum "Warum ist das wichtig?"
     Ärztinnen und Ärzte müssen vor jeder Untersuchung mit Strahlung aufklären – verständlich, ehrlich und ohne Panik zu machen. Das Gespräch ist zugleich eure Sicherung: Ihr lernt das jeweils andere Verfahren kennen und prüft, ob eure Patienteninformation die Fragen der „Patientin“ wirklich beantwortet.
 
+Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Schätzt den Zeitaufwand ab und erstellt den Sprint-Plan. Notiert die Aufgaben (z. B. auf Post-Its) und füllt euer Scrumboard. Vorschläge dazu findet ihr am Ende der Seite.
+Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
+
+## Sprint-Plan (2 Einzelstunden)
+
+| Wann | Was |
+| --- | --- |
+|  | **Sprint-Planung** |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  | **Review & Retro** in der Pfad-Gruppe: Welche Frage hat euch überrascht? Was fehlte in der Patienteninformation? |
+
 ## Arbeitspakete und Kriterien
 
 !!! aufgabe "Arbeitspaket A · Gesprächsleitfaden (in der Pfad-Gruppe)"
@@ -20,7 +34,7 @@ In Modul II habt ihr **eine** Patientin begleitet. Jetzt treffen sich die Pfade:
     <span class="kr">Kriterien:</span> Der Leitfaden enthält die fünf Leitfragen (Inhalte, Risiken, mögliche Patientenfragen, Vorbereitung, Ängste nehmen) mit konkreten Antworten und Zahlen · die Patientenrolle hat mindestens sechs Fragen, darunter mindestens zwei „schwierige“ (Dosis, Familie, Alternativen).
 
 !!! aufgabe "Arbeitspaket B · Zwei Gespräche (in gemischten Gruppen)"
-    Bildet Vierergruppen aus zwei Personen Pfad A und zwei Personen Pfad B. Führt zwei Gespräche à 8–10 Minuten: erst Szintigraphie (A = Arzt, B = Patientin), dann Radioiodtherapie (B = Arzt, A = Patientin). Die jeweils nicht sprechende Person jedes Pfads beobachtet mit dem Beobachtungsbogen.<br>
+    Bildet Vierergruppen aus zwei Personen Pfad 1 und zwei Personen Pfad 2. Führt zwei Gespräche à 8–10 Minuten: erst Szintigraphie (1 = Arzt, 2 = Patientin), dann Radioiodtherapie (2 = Arzt, 1 = Patientin). Die jeweils nicht sprechende Person jedes Pfads beobachtet mit dem Beobachtungsbogen.<br>
     <span class="kr">Kriterien:</span> Fachlich korrekt (Nuklid, Strahlungsart, Halbwertszeit, Dosis mit Vergleich, Schutzregeln) · adressatengerecht (keine unerklärten Fachwörter) · die Patientin hat am Ende weniger offene Fragen als am Anfang · Beobachtungsbogen ausgefüllt.
 
 !!! aufgabe "Arbeitspaket C · Lernprodukt"
@@ -30,16 +44,6 @@ In Modul II habt ihr **eine** Patientin begleitet. Jetzt treffen sich die Pfade:
 !!! lernprodukt "Lernprodukt: Gesprächsleitfaden und Rollenspiel"
     Das Lernprodukt besteht aus zwei Teilen: dem **Gesprächsleitfaden** eures Pfads (eine Seite: Eröffnung, fünf Kernaussagen mit Zahlen, drei Schutzregeln mit Begründung, Antworten auf die erwarteten Patientenfragen, Abschluss) und dem **Rollenspiel** selbst, das nach dem Beobachtungsbogen bewertet wird. Wer möchte, nimmt das Gespräch als Audio auf (max. 10 Minuten) und gibt es statt des Beobachtungsbogens ab.
 
-## Sprint-Plan (1 Doppelstunde)
-
-| Wann | Was |
-| --- | --- |
-| 10 min | **Sprint-Planung** in der Pfad-Gruppe: Rollen verteilen, Leitfaden aufteilen |
-| 25 min | Arbeitspaket A: Gesprächsleitfaden und Patientenfragen |
-| 5 min | Gemischte Gruppen bilden, **Stand-up** (Wer spricht wann?) |
-| 25 min | Arbeitspaket B: zwei Gespräche mit Beobachtung |
-| 15 min | Arbeitspaket C: Leitfaden überarbeiten |
-| 10 min | **Review & Retro** in der Pfad-Gruppe: Welche Frage hat euch überrascht? Was fehlte in der Patienteninformation? |
 
 !!! info "So wird bewertet"
     Das [Bewertungsraster zu diesem Modul](#raster-modul3) zeigt für jedes Kriterium, was für die volle Punktzahl erwartet wird.
@@ -52,4 +56,4 @@ In Modul II habt ihr **eine** Patientin begleitet. Jetzt treffen sich die Pfade:
 - [ ] Gespräch 1 geführt und beobachtet
 - [ ] Gespräch 2 geführt und beobachtet
 - [ ] Leitfaden überarbeitet, offene Frage recherchiert
-- [ ] Review & Retro, Scrum Captain für Modul IV bestimmt
+- [ ] Review & Retro

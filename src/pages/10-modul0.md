@@ -4,7 +4,7 @@ title: Modul 0 · Warum trägt man beim Zahnarzt eine Bleischürze?
 nav: Modul 0 · Röntgen & Strahlenwirkung
 group: Modul 0
 order: 10
-badge: Modul 0 · 1,5 Doppelstunden
+badge: Modul 0 · 3 Einzelstunden
 mod: 0
 ---
 

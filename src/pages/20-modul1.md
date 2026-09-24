@@ -4,7 +4,7 @@ title: Modul I · 5 A - Wie schützt man sich vor Strahlung?
 nav: Modul I · Strahlenschutz (5 A)
 group: Modul I
 order: 20
-badge: Modul I · 1,5 Doppelstunden
+badge: Modul I · 3 Einzelstunden
 mod: 1
 ---
 

@@ -64,14 +64,6 @@ Die Skala gilt einheitlich für alle Einzelkriterien; die Erwartung bei voller P
 | --- | --- | --- |
 | **Scrum-Elemente** | Sprint-Planung, Scrumboard, Stand-ups und Retrospektive wurden durchgeführt und dokumentiert; Aufgaben waren sinnvoll verteilt, alle Teammitglieder können das Lernprodukt erklären. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
 
-
-## Zusatzpunkte (fakultativ)
-
-| Kriterium | Erwartung bei voller Punktzahl (6 Punkte) | Punkte |
-| --- | --- | --- |
-| **Audioaufnahme oder Vertiefung** | Eine Audioaufnahme des Gesprächs wird abgegeben oder eine weiterführende Frage (z. B. Alternativen zum Verfahren, PET, Kinderdosis) wird fachlich korrekt beantwortet. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
-
-
 ## Gesamtübersicht
 
 | Kompetenzbereich | Punkte erreicht | Punkte maximal |
@@ -81,10 +73,9 @@ Die Skala gilt einheitlich für alle Einzelkriterien; die Erwartung bei voller P
 | C Kommunikation und Dokumentation | | 18 |
 | D Bewertung | | 6 |
 | E Arbeitsprozess (Team) | | 6 |
-| Zusatzpunkte (fakultativ) | | 6 |
-| **Gesamt** | | **48** (+ 6 Zusatz) |
+| **Gesamt** | | **48** |
 
-**Erreichte Punkte:** ________ / 48 Punkte (Zusatzpunkte werden addiert, die Gesamtpunktzahl bleibt 48).
+**Erreichte Punkte:** ________ / 48 Punkte
 
 ## Notenschlüssel
 

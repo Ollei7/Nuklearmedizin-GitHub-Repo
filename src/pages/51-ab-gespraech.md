@@ -1,7 +1,7 @@
 ---
 id: ab-gespraech
 title: Arbeitsblatt – Gesprächsleitfaden und Beobachtungsbogen
-nav: Arbeitsblatt · Gesprächsleitfaden
+nav: A · Arbeitsblatt - Gesprächsleitfaden
 group: Modul III
 order: 51
 badge: Modul III · Arbeitsblatt
@@ -27,7 +27,7 @@ Bereitet euch in eurer Pfad-Gruppe auf ein Gespräch mit einer Patientin oder ei
 
 ## Teil 2 · Ihr seid Patientin oder Patient (das andere Verfahren)
 
-Nun nehmt ihr die Rolle einer Person ein, bei der das **andere** Verfahren durchgeführt werden soll (Pfad A: Radioiodtherapie · Pfad B: Szintigraphie). Sammelt Fragen, die ihr einer Ärztin oder einem Arzt stellen würdet – mindestens sechs, darunter mindestens zwei, die schwer zu beantworten sind. Ideen: Was passiert genau? Tut es weh? Wie lange bin ich radioaktiv? Darf mein Kind auf den Schoß? Darf meine schwangere Tochter kommen? Was passiert, wenn ich Nein sage? Wie viel ist das im Vergleich zum Fliegen? Bleibt etwas für immer im Körper?
+Nun nehmt ihr die Rolle einer Person ein, bei der das **andere** Verfahren durchgeführt werden soll (Pfad 1: Radioiodtherapie · Pfad 2: Szintigraphie). Sammelt Fragen, die ihr einer Ärztin oder einem Arzt stellen würdet – mindestens sechs, darunter mindestens zwei, die schwer zu beantworten sind. Ideen: Was passiert genau? Tut es weh? Wie lange bin ich radioaktiv? Darf mein Kind auf den Schoß? Darf meine schwangere Tochter kommen? Was passiert, wenn ich Nein sage? Wie viel ist das im Vergleich zum Fliegen? Bleibt etwas für immer im Körper?
 
 ## Teil 3 · Beobachtungsbogen (für die beobachtende Person)
 
@@ -48,4 +48,3 @@ Gespräch zu: ☐ Szintigraphie ☐ Radioiodtherapie &nbsp;&nbsp; Arzt/Ärztin: 
 
 **Was war besonders gelungen?** ______________________________________________
 
-<small>Nach: NUN – Unterrichtseinheit Nuklearmedizin, 14-Sicherung-Arzt-Patienten-Gespräch (Stand 23.06.2026); um Beobachtungsbogen und Gesprächsaufbau ergänzt.</small>
