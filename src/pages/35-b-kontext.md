@@ -12,16 +12,6 @@ Während einer Routineuntersuchung wurde bei eurer Patientin Schilddrüsenkrebs 
 
 Ihr gebt ihr das folgende Informationsblatt.
 
-## Aufgaben
-
-Lest das Informationsblatt und beantwortet damit die Fragen eurer Patientin. Notiert die Antworten so, dass ihr sie später in die Patienteninformation übernehmen könnt.
-
-1. Beschreibt, wie die Radioiodtherapie funktioniert – vom Schlucken der Kapsel bis zur Wirkung in der Schilddrüse.
-2. Erklärt, warum gerade **Iod** bei Schilddrüsenerkrankungen eingesetzt wird. Was unterscheidet die Schilddrüse von anderen Organen?
-3. Nennt mögliche Nebenwirkungen der Radioiodtherapie und ordnet sie in kurzfristig / langfristig.
-4. Sucht im Informationsblatt alle Stellen, die etwas mit **Strahlenschutz** zu tun haben (Krankenhaus, Besuch, Abstand, Schwangerschaft). Warum sind diese Regeln bei eurer Patientin viel strenger als bei einer Szintigraphie? Eine Vermutung genügt – die Antwort erarbeitet ihr in Arbeitspaket B.
-5. Sammelt alle Fragen, die eure Patientin nach dem Lesen vermutlich *noch* hat – sie bilden das Gerüst eurer Patienteninformation.
-
 ## Information zur Radioiodtherapie (Iod-131) bei Schilddrüsenkrebs
 
 !!! info "Sehr geehrte Patientin, sehr geehrter Patient,"
@@ -37,6 +27,15 @@ Lest das Informationsblatt und beantwortet damit die Fragen eurer Patientin. Not
 
     **Zusammenfassung.** Die Radioiodtherapie ist ein bewährtes und effektives Verfahren, um Schilddrüsenkrebszellen zu zerstören. Sie ist im Allgemeinen gut verträglich. Wie bei jeder medizinischen Behandlung bestehen aber Risiken und mögliche Nebenwirkungen. Ihr Behandlungsteam berät und begleitet Sie individuell.
 
+<small>Hinweis: Das Informationsblatt ist ein Unterrichtsmaterial und ersetzt keine ärztliche Aufklärung.</small>
 
 
-</small>Hinweis: Das Informationsblatt ist ein Unterrichtsmaterial und ersetzt keine ärztliche Aufklärung.</small>
+## Aufgaben
+
+Lest das Informationsblatt und beantwortet damit die Fragen eurer Patientin. Notiert die Antworten so, dass ihr sie später in die Patienteninformation übernehmen könnt.
+
+1. Beschreibt, wie die Radioiodtherapie funktioniert – vom Schlucken der Kapsel bis zur Wirkung in der Schilddrüse.
+2. Erklärt, warum gerade **Iod** bei Schilddrüsenerkrankungen eingesetzt wird. Was unterscheidet die Schilddrüse von anderen Organen?
+3. Nennt mögliche Nebenwirkungen der Radioiodtherapie und ordnet sie in kurzfristig / langfristig.
+4. Sucht im Informationsblatt alle Stellen, die etwas mit **Strahlenschutz** zu tun haben (Krankenhaus, Besuch, Abstand, Schwangerschaft). Warum sind diese Regeln bei eurer Patientin viel strenger als bei einer Szintigraphie? Eine Vermutung genügt – die Antwort erarbeitet ihr in Arbeitspaket B.
+5. Sammelt alle Fragen, die eure Patientin nach dem Lesen vermutlich *noch* hat – sie bilden das Gerüst eurer Patienteninformation.

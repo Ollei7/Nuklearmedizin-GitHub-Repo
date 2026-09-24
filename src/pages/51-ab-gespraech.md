@@ -10,7 +10,7 @@ mod: 3
 
 ## Teil 1 · Ihr seid Ärztin oder Arzt (euer Verfahren)
 
-Bereitet euch in eurer Pfad-Gruppe auf ein Gespräch mit einer Patientin oder einem Patienten vor. Nutzt eure Patienteninformation aus Modul II. Notiert zu jeder Leitfrage konkrete Stichpunkte – mit Zahlen.
+Bereitet euch in eurer Pfad-Gruppe auf ein Gespräch mit eurer Patientin vor. Nutzt eure Patienteninformation aus Modul II. Notiert zu jeder Leitfrage konkrete Stichpunkte – mit Zahlen.
 
 | Leitfrage | Eure Stichpunkte |
 | --- | --- |
@@ -27,7 +27,7 @@ Bereitet euch in eurer Pfad-Gruppe auf ein Gespräch mit einer Patientin oder ei
 
 ## Teil 2 · Ihr seid Patientin oder Patient (das andere Verfahren)
 
-Nun nehmt ihr die Rolle einer Person ein, bei der das **andere** Verfahren durchgeführt werden soll (Pfad 1: Radioiodtherapie · Pfad 2: Szintigraphie). Sammelt Fragen, die ihr einer Ärztin oder einem Arzt stellen würdet – mindestens sechs, darunter mindestens zwei, die schwer zu beantworten sind. Ideen: Was passiert genau? Tut es weh? Wie lange bin ich radioaktiv? Darf mein Kind auf den Schoß? Darf meine schwangere Tochter kommen? Was passiert, wenn ich Nein sage? Wie viel ist das im Vergleich zum Fliegen? Bleibt etwas für immer im Körper?
+Nun nehmt ihr die Rolle einer Person ein, bei der das **andere** Verfahren durchgeführt werden soll (Pfad 1: Radioiodtherapie · Pfad 2: Szintigraphie). Sammelt Fragen, die ihr einer Ärztin oder einem Arzt stellen würdet – mindestens sechs, darunter mindestens zwei, die schwer zu beantworten sind. Ideen: Was passiert genau? Tut es weh? ...
 
 ## Teil 3 · Beobachtungsbogen (für die beobachtende Person)
 

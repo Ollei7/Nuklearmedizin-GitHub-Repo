@@ -13,9 +13,6 @@ Mit der App **Radiation Protection** (Augmented Reality) führt ihr einen klassi
 !!! tipp "Protokoll"
     Ein gutes Protokoll dieser Aufgaben hat für jeden Versuch: Aufbau (Foto/Screenshot), Durchführung (was wurde verändert?), Messwerte (Tabelle), Auswertung (Diagramm, Rechnung), Deutung (was folgt daraus für den Strahlenschutz?).
 
-!!! info "App und Marker"
-    Download, Bildmarker (PDF) und Kurzanleitung: [strahlenschutzkurse.de – Augmented-Reality-Experimente](https://www.strahlenschutzkurse.de/de/behoerden-schulen/angebote-fuer-schulen/augmented-reality-experimente). Die Marker **nicht laminieren** (Reflexe stören die Kamera). Erkennt die App einen verschobenen Marker nicht sofort, Kamera näher heranführen. Läuft die App ruckelig: im Menü (drei Punkte oben rechts) die Qualität herabsetzen.
-
 ## Aufbau
 
 Stelle die Quelle (Co-60) und das Zählrohr in einem Abstand von ca. 25 cm voreinander auf.

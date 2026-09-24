@@ -13,7 +13,7 @@ Zurück zur Bleischürze: Sie ist nur **eine** von verschiedenen Maßnahmen, mit
 !!! warum "Warum ist das wichtig?"
     In Modul II werdet ihr Patientinnen erklären müssen, warum sie nach einer Behandlung Abstand zu Kindern halten oder einige Tage im Krankenhaus bleiben sollen. Das geht nur, wenn ihr die Regeln nicht nur kennt, sondern mit Messwerten begründen könnt.
 
-Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Schätzt den Zeitaufwand ab und ergänzt die Zeiten im Sprint-Plan. Notiert die Aufgaben (z. B. auf Post-Its) und füllt euer Scrumboard. Vorschläge dazu findet ihr am Ende der Seite.
+Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Schätzt den Zeitaufwand ab und ergänzt die Zeiten im Sprint-Plan. Notiert die Aufgaben (z. B. auf Post-Its) und füllt euer Scrumboard. Vorschläge dazu findet ihr am Ende der Seite.<br>
 Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
 
 ## Sprint-Plan (3 Einzelstunden, 135 Minuten)

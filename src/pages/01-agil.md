@@ -20,7 +20,7 @@ Die Module sind zeitlich so knapp bemessen, dass ihr das Lernprodukt **nur gemei
 | Rolle | Aufgabe |
 | --- | --- |
 | **Lehrkraft** | Stellt die Aufgabe (mit Warum, Arbeitspaketen und Kriterien), erklärt die Arbeitsweise, hilft als Coach und bewertet am Ende. Sie sagt euch vor dem Sprint, was in die Bewertung einfließt. |
-| **Team** | 4–5 Personen. Plant, arbeitet, hilft sich gegenseitig und ist gemeinsam für das Lernprodukt verantwortlich. |
+| **Team** | ca. 4 Personen. Plant, arbeitet, hilft sich gegenseitig und ist gemeinsam für das Lernprodukt verantwortlich. |
 | **Scrum Captain** | Ein Teammitglied pro Sprint. Behält Zeitplan und Scrumboard im Blick, erinnert an den Teamkodex und holt bei Bedarf die Lehrkraft. Die Rolle wechselt **nach jedem Modul**. |
 
 ## Die Elemente eines Sprints

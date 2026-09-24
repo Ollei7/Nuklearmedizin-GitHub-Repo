@@ -8,12 +8,12 @@ badge: Modul III · 2 Einzelstunden
 mod: 3
 ---
 
-In Modul II habt ihr **eine** Patientin begleitet. Jetzt treffen sich die Pfade: Die Szintigraphie-Teams erklären den Radioiod-Teams ihr Verfahren – und umgekehrt. Nicht als Vortrag, sondern als **Arzt-Patienten-Gespräch**, wie es in der Klinik jeden Tag geführt wird. Wer ein Verfahren so erklären kann, dass eine Patientin ohne Physikunterricht es versteht *und* sich danach weniger Sorgen macht, hat es verstanden.
+In Modul II habt ihr **eine** Patientin begleitet. Jetzt treffen sich die Pfade: Die Szintigraphie-Teams erklären den Radioiod-Teams ihr Verfahren – und umgekehrt. Nicht als Vortrag, sondern als **Aufklärungsgespräch** zwischen medizinischem Personal und Patientin, wie es in der Klinik jeden Tag geführt wird. Wer ein Verfahren so erklären kann, dass eine Patientin ohne Physikunterricht es versteht *und* sich danach weniger Sorgen macht, hat es verstanden.
 
 !!! warum "Warum ist das wichtig?"
-    Ärztinnen und Ärzte müssen vor jeder Untersuchung mit Strahlung aufklären – verständlich, ehrlich und ohne Panik zu machen. Das Gespräch ist zugleich eure Sicherung: Ihr lernt das jeweils andere Verfahren kennen und prüft, ob eure Patienteninformation die Fragen der „Patientin“ wirklich beantwortet.
+    Medizinisches Personal muss vor jeder Untersuchung mit Strahlung aufklären – verständlich, ehrlich und ohne Panik zu machen. Das Gespräch ist zugleich eure Sicherung: Ihr lernt das jeweils andere Verfahren kennen und prüft, ob eure Patienteninformation die Fragen der Patientin wirklich beantwortet.
 
-Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Schätzt den Zeitaufwand ab und erstellt den Sprint-Plan. Notiert die Aufgaben (z. B. auf Post-Its) und füllt euer Scrumboard. Vorschläge dazu findet ihr am Ende der Seite.
+Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Schätzt den Zeitaufwand ab und erstellt den Sprint-Plan. Notiert die Aufgaben (z. B. auf Post-Its) und füllt euer Scrumboard. Vorschläge dazu findet ihr am Ende der Seite.<br>
 Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
 
 ## Sprint-Plan (2 Einzelstunden)
@@ -30,7 +30,7 @@ Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
 ## Arbeitspakete und Kriterien
 
 !!! aufgabe "Arbeitspaket A · Gesprächsleitfaden (in der Pfad-Gruppe)"
-    Bereitet euch mit dem [Arbeitsblatt Gesprächsleitfaden](#ab-gespraech) auf **beide** Rollen vor: die Ärztin/den Arzt für *euer* Verfahren und die Patientin/den Patienten für das *andere*.<br>
+    Bereitet euch mit dem [Arbeitsblatt Gesprächsleitfaden](#ab-gespraech) auf **beide** Rollen vor: die Ärztin/den Arzt für *euer* Verfahren und die Patientin für das *andere*.<br>
     <span class="kr">Kriterien:</span> Der Leitfaden enthält die fünf Leitfragen (Inhalte, Risiken, mögliche Patientenfragen, Vorbereitung, Ängste nehmen) mit konkreten Antworten und Zahlen · die Patientenrolle hat mindestens sechs Fragen, darunter mindestens zwei „schwierige“ (Dosis, Familie, Alternativen).
 
 !!! aufgabe "Arbeitspaket B · Zwei Gespräche (in gemischten Gruppen)"

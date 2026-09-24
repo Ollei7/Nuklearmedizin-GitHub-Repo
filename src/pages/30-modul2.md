@@ -8,9 +8,9 @@ badge: Modul II · 8 Einzelstunden
 mod: 2
 ---
 
-Zwei Frauen, zwei Wege in die Nuklearmedizin. **Patientin 1** muss ihre Schilddrüse untersuchen lassen – mit einer *Szintigraphie*, bei der ihr ein radioaktiver Stoff gespritzt wird. **Patientin 2** hat Schilddrüsenkrebs und soll mit radioaktivem Iod behandelt werden – *Radioiodtherapie*. Beide haben Fragen: Wie funktioniert das? Warum ausgerechnet Strahlung? Wie viel bekomme ich ab? Muss ich ins Krankenhaus? Darf mein Enkel auf den Schoß, darf meine schwangere Tochter zu Besuch kommen?
+Zwei Frauen, zwei Wege in die Nuklearmedizin. **Patientin 1** muss ihre Schilddrüse untersuchen lassen – mit einer *Szintigraphie*, bei der ihr ein radioaktiver Stoff gespritzt wird. **Patientin 2** hat Schilddrüsenkrebs und soll mit radioaktivem Iod behandelt werden – *Radioiodtherapie*. Beide haben Fragen: Wie funktioniert das? Warum ausgerechnet Strahlung? Wie viel bekomme ich ab? Muss ich ins Krankenhaus? Darf mein Sohn auf den Schoß, darf meine schwangere Tochter zu Besuch kommen?
 
-Ihr wählt aus und nehmt die Rolle des ärztlichen Personals ein: Begleitet Patientin 1 (**Pfad 1 · Szintigraphie**) oder Patientin 2 (**Pfad 2 · Radioiodtherapie**). Beide Pfade führen durch dieselbe Physik – Strahlungsarten, Halbwertszeit, Zerfallsreihen, effektive Dosis, Strahlenschutz – nur in anderer Reihenfolge und an einem anderen Fall. In Modul III erolgt Behandlungsplan-Gespräch.
+Ihr wählt aus und nehmt die Rolle des ärztlichen Personals ein: Begleitet Patientin 1 (**Pfad 1 · Szintigraphie**) oder Patientin 2 (**Pfad 2 · Radioiodtherapie**). Beide Pfade führen durch dieselbe Physik – Strahlungsarten, Halbwertszeit, Zerfallsreihen, effektive Dosis, Strahlenschutz – nur in anderer Reihenfolge und an einem anderen Fall. In Modul III erolgt ein Aufklärungsgespräch.
 
 ## Die beiden Pfade
 
@@ -51,7 +51,7 @@ Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notie
     <span class="kr">Kriterium:</span> Die Fragen der Patientin sind vollständig notiert und jede ist einem Thema zugeordnet.
 
 !!! aufgabe "Arbeitspaket B · Die Physik dahinter"
-    Bearbeitet die vier Stationen eures Pfads. Am Ende muss *jede Person* alle Fragen der Patientin beantworten können. Startet mit Station 1.<br>
+    Bearbeitet die vier Stationen eures Pfads. Am Ende muss *jede Person* alle Fragen der Patientin beantworten können. Startet mit Station 1:<br>
     B1: [Patientin 1: Szintigraphie](#a-verfahren)<br>
     B2: [Patientin 2: Radioiodtherapie](#b-physik)<br>
     <span class="kr">Kriterien:</span> Alle Aufgaben der Stationen bearbeitet · Würfelsimulation durchgeführt und ausgewertet · Halbwertszeit am Diagramm abgelesen · effektive Dosis mit Vergleichswerten eingeordnet · Zerfallsreihe des verwendeten Nuklids aufgestellt.

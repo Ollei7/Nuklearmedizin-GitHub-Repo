@@ -45,7 +45,7 @@ Mit Würfeln könnt ihr zentrale Aspekte des radioaktiven Zerfalls simulieren: W
 
 5. Das folgende Diagramm zeigt die gemessene Zählrate einer Technetium-Probe. Bestätigt, dass die Probe tatsächlich eine Halbwertszeit von etwa 6 h hat. Prüft an zwei verschiedenen Startpunkten.
 
-![Diagramm: Zählrate einer Tc-99m-Probe in Abhängigkeit von der Zeit in Minuten](assets/tc99m_zaehlrate.jpg "Zählrate einer Tc-99m-Probe, um den Nulleffekt bereinigt; „Tc-99*“ ist eine andere Schreibweise für Tc-99m (MSB NRW, Beispielaufgabe Abitur Physik GK ab 2025)")
+![Diagramm: Zählrate einer Tc-99m-Probe in Abhängigkeit von der Zeit in Minuten](assets/B1-station2.jpg "Zählrate einer Tc-99m-Probe, um den Nulleffekt bereinigt; „Tc-99*“ ist eine andere Schreibweise für Tc-99m")
 
 6. Erklärt den Einfluss der Halbwertszeit des verwendeten Isotops auf Lagerung und Strahlenbelastung. Berechnet dazu, wie viel Prozent einer Tc-99m-Lieferung wären nach 24 h Transport noch übrig ist.
 7. Für eine Schilddrüsen-Szintigraphie werden typischerweise etwa **50–80 MBq** injiziert. Formuliert eine Antwort auf die Frage „Wie lange strahlt das in mir?“ mit Zahlen: nach 6 h, nach 12 h, nach 24 h, nach 2 Tagen. 

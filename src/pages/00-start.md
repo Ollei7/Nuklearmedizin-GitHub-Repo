@@ -11,7 +11,7 @@ badge: Lerneinheit Physik · Jahrgang 9/10
 
 Fast jede und jeder von euch war schon einmal beim Röntgen – beim Zahnarzt, nach einem Sturz, vielleicht im CT. Und viele kennen jemanden, der mit Strahlung untersucht oder behandelt wurde: eine Schilddrüsen-Szintigraphie, eine Bestrahlung, eine Radioiodtherapie. Dabei stellen sich immer dieselben Fragen: **Was macht Strahlung im Körper? Wie schädlich ist sie? Wie schützt man sich? Wird man „verstrahlt“ – und wie lange „strahlt“ man nach einer Behandlung?**
 
-Um diese Fragen zu beantworten, braucht man Physik: Strahlungsarten, Halbwertszeit, Abschirmung, Abstand, Dosis. Genau das erarbeitet ihr in dieser Einheit – nicht abstrakt, sondern an **zwei Fallgeschichten aus der Nuklearmedizin**: Frau A., die eine Szintigraphie bekommt, und Frau B., die mit radioaktivem Iod behandelt wird. Am Ende führt ihr selbst ein Arzt-Patienten-Gespräch und bewertet, ob eine umstrittene Therapie sinnvoll ist.
+Um diese Fragen zu beantworten, braucht man Physik: Strahlungsarten, Halbwertszeit, Abschirmung, Abstand, Dosis. Genau das erarbeitet ihr in dieser Einheit – nicht abstrakt, sondern an **zwei Fallgeschichten aus der Nuklearmedizin**: Patientin 1, die eine Szintigraphie bekommt, und Patientin 2, die mit radioaktivem Iod behandelt wird. Am Ende führt ihr selbst ein Arzt-Patienten-Gespräch und bewertet, ob eine umstrittene Therapie sinnvoll ist.
 
 ## Die Module
 
@@ -20,7 +20,6 @@ Um diese Fragen zu beantworten, braucht man Physik: Strahlungsarten, Halbwertsze
 <a class="tile m1" href="#modul1"><b>Modul I</b>Wie schützt man sich vor Strahlung? Die 5 A<small>1,5 Doppelstunden · Wandkarten zum Strahlenschutz</small></a>
 <a class="tile m2" href="#modul2"><b>Modul II</b>Fallgeschichten: Szintigraphie oder Radioiodtherapie<small>4 Doppelstunden · Patienteninformation (zwei Pfade)</small></a>
 <a class="tile m3" href="#modul3"><b>Modul III</b>Das Arzt-Patienten-Gespräch<small>1 Doppelstunde · Gesprächsleitfaden und Rollenspiel</small></a>
-<a class="tile m4" href="#modul4"><b>Modul IV</b>Radon – Gefahr oder Heilmittel?<small>1 Doppelstunde · Begründete Empfehlung</small></a>
 </div>
 
 ## So funktioniert die Arbeit

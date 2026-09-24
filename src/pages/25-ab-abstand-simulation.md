@@ -45,6 +45,6 @@ Die Simulation: [geogebra.org/m/adnzwgbq](https://www.geogebra.org/m/adnzwgbq)
 ![Abstandsquadratgesetz](assets/abstandsquadratgesetz.jpg "Abstandsquadratgesetz (Quelle: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) Borb)"){: .img-small }
 
 
-5. In einem Merkblatt für Patientinnen und Patienten, die ein radioaktives Präparat zu Diagnose- oder Therapiezwecken verabreicht bekommen haben, steht: Enger Körperkontakt, zum Beispiel mit Kindern, sollte nach der Behandlung für eine gewisse Zeit vermieden werden. Durch das Präparat werden die Patientinnen und Patienten selbst zu Strahlenquellen. Begründe den Sinn dieser Maßnahme mit dem, was du durch die Simulation herausgefunden hast – mit einem Zahlenbeispiel (z. B. 10 cm Abstand beim Kuscheln gegenüber 50 cm am Tisch).
+5. In einem Merkblatt für Patient:innen, die ein radioaktives Präparat zu Diagnose- oder Therapiezwecken verabreicht bekommen haben, steht: Enger Körperkontakt, zum Beispiel mit Kindern, sollte nach der Behandlung für eine gewisse Zeit vermieden werden. Durch das Präparat werden die Patient:innen selbst zu Strahlenquellen. Begründe den Sinn dieser Maßnahme mit dem, was du durch die Simulation herausgefunden hast – mit einem Zahlenbeispiel (z. B. 10 cm Abstand beim Kuscheln gegenüber 50 cm am Tisch).
 
 

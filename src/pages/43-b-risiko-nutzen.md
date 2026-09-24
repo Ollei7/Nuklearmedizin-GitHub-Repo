@@ -59,7 +59,5 @@ Die folgende Tabelle zeigt die effektive Dosis verschiedener Situationen:
 - [Strahlung aus dem Erdboden (SK 12)](https://www.fs-ev.org/fileadmin/user_upload/93_Oeff.-Arbeit/StrahlenschutzKompakt/SK12_Final_Einzelaus12_Kompakt_FSeV_03-2021_HighRes_V2.pdf)
 - Übersicht aller Broschüren: [fs-ev.org – StrahlenschutzKOMPAKT](https://www.fs-ev.org/der-fs/oeffentlichkeitsarbeit/strahlenschutzkompakt-1)
 
-!!! tipp "Ohne Internet"
-    Die Broschüren sind kurze PDF-Dateien. Die Lehrkraft kann sie vorab herunterladen und über IServ bereitstellen.
 
-<small>Nach: NUN – Unterrichtseinheit Nuklearmedizin, 12a/12b-AB-effektive-Dosis (Stand 23.06.2026). Dosiswerte: BfS (Strahlenexposition in Deutschland), Orientierungshilfen Röntgen/Nuklearmedizin; die Angabe zur effektiven Dosis der Radioiodtherapie wurde gegenüber dem Ausgangsmaterial korrigiert (siehe Lehrkräfte-Seite „Fachliche Prüfung“). Abbildung: BfS.</small>
+
