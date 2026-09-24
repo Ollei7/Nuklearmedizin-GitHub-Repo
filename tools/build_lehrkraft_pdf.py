@@ -42,6 +42,12 @@ def build_html():
 <style>
 {css}
 main.content{{max-width:800px;margin:0 auto;padding:1.5em}}
+/* Nur für dieses PDF: die als .pdf-break markierten Überschriften
+   beginnen immer auf einer neuen Seite (samt Überschrift), unabhängig
+   davon, wie viel Text vorher noch auf die Seite passen würde. */
+@media print {{
+  h2.pdf-break {{ break-before: page; page-break-before: always; }}
+}}
 </style>
 </head>
 <body>

@@ -23,7 +23,7 @@ Die Module sind zeitlich so knapp bemessen, dass ihr das Lernprodukt **nur gemei
 | **Team** | ca. 4 Personen. Plant, arbeitet, hilft sich gegenseitig und ist gemeinsam für das Lernprodukt verantwortlich. |
 | **Scrum Captain** | Ein Teammitglied pro Sprint. Behält Zeitplan und Scrumboard im Blick, erinnert an den Teamkodex und holt bei Bedarf die Lehrkraft. Die Rolle wechselt **nach jedem Modul**. |
 
-## Die Elemente eines Sprints
+## Die Elemente eines Sprints {: .pdf-break }
 
 !!! sprint "1 · Aufgabenstellung verstehen"
     Jedes Modul beginnt mit einer Leitfrage. Die Aufgabenstellung enthält immer drei Dinge, die ihr auch auf den Modulseiten farbig erkennt:
@@ -46,7 +46,7 @@ Die Module sind zeitlich so knapp bemessen, dass ihr das Lernprodukt **nur gemei
 !!! sprint "5 · Retrospektive (ca. 5–10 Minuten)"
     Blickt gemeinsam zurück – nicht auf die Physik, sondern auf eure Zusammenarbeit. Nutzt die **Vier-Felder-Retrospektive**: *Das lief gut · Das lief nicht gut · Das probieren wir nächstes Mal · Das lassen wir sein.* Haltet ein bis zwei Vorsätze fest und ergänzt euren Teamkodex.
 
-## Das Scrumboard
+## Das Scrumboard {: .pdf-break }
 
 Jedes Team legt zu Beginn von Modul 0 ein Scrumboard an – auf einem DIN-A3-Blatt, einer Kladde, in der Notizen-App oder auf einem Whiteboard-Foto. Es begleitet euch durch alle Module.
 
