@@ -47,4 +47,4 @@ Die Simulation: [geogebra.org/m/adnzwgbq](https://www.geogebra.org/m/adnzwgbq)
 
 5. In einem Merkblatt für Patient:innen, die ein radioaktives Präparat zu Diagnose- oder Therapiezwecken verabreicht bekommen haben, steht: Enger Körperkontakt, zum Beispiel mit Kindern, sollte nach der Behandlung für eine gewisse Zeit vermieden werden. Durch das Präparat werden die Patient:innen selbst zu Strahlenquellen. Begründe den Sinn dieser Maßnahme mit dem, was du durch die Simulation herausgefunden hast – mit einem Zahlenbeispiel (z. B. 10 cm Abstand beim Kuscheln gegenüber 50 cm am Tisch).
 
-
+[^1]: Das Abstandsgesetz gilt streng nur für eine punktförmige Quelle, geradlinige Ausbreitung und ohne Absorption in der Luft. Für Alphastrahlung, die in Luft schon nach wenigen Zentimetern verschluckt wird, weicht die Messung deshalb deutlich vom Gesetz ab – ein Beispiel dafür, dass Modelle Grenzen haben.
