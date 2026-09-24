@@ -13,7 +13,7 @@ Dieses Repository enthält die Texte der Lerneinheit „Nuklearmedizin – Strah
 3. Text ändern – wie in einem einfachen Texteditor. Ein Satz ist ein Satz; du musst nichts „programmieren“.
 4. Oben rechts **„Commit changes…“** klicken, in das Feld kurz schreiben, was du geändert hast (z. B. „Modul I: Aufgabe B4 vereinfacht“), dann **„Commit changes“**.
 
-Das war's. Nach ein bis zwei Minuten liegt die neue Fassung unter **Actions → letzter Lauf → Artifacts** zum Herunterladen (ZIP mit HTML, PDF, EPUB).
+Das war's. Nach ein bis zwei Minuten liegt die neue Fassung unter **Actions → letzter Lauf → Artifacts** zum Herunterladen (ZIP mit HTML, PDF, EPUB sowie einem separaten PDF „So arbeiten wir" für Lehrkräfte).
 
 **Tipp:** Die Taste **`.`** (Punkt) im Repository öffnet einen komfortableren Editor mit Vorschau (funktioniert auch im Safari auf dem iPad). Dort links die Datei wählen, rechts oben das Vorschau-Symbol. Speichern geht dort über das Symbol „Source Control“ (Zweig-Symbol) → Nachricht eintippen → Häkchen.
 
@@ -82,6 +82,7 @@ src/app.js        optionale Funktionen (Seitenumschaltung, gemerkte Checklisten)
 tools/build.py    Markdown → Nuklearmedizin.html (Formeln als SVG, Bilder eingebettet)
 tools/tex2svg.js  Formel-Renderer (MathJax, Node.js)
 tools/build_epub.py, tools/build_pdf.py, tools/check.py
+tools/build_lehrkraft_pdf.py   Seite "So arbeiten wir" (01-agil.md) als eigenes PDF für Lehrkräfte
 .github/workflows/build.yml   baut bei jedem Commit HTML, PDF, EPUB (Artifact, 90 Tage)
 ```
 

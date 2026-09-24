@@ -44,6 +44,9 @@ jobs:
       - name: PDF bauen
         run: python tools/build_pdf.py
 
+      - name: Lehrkräfte-PDF "So arbeiten wir" bauen
+        run: python tools/build_lehrkraft_pdf.py
+
       - name: Ergebnis bereitstellen
         uses: actions/upload-artifact@v4
         with:
@@ -52,6 +55,7 @@ jobs:
             build/Nuklearmedizin.html
             build/Nuklearmedizin.pdf
             build/Nuklearmedizin.epub
+            build/So-arbeiten-wir.pdf
           retention-days: 90
 
   # Veröffentlichung über GitHub Pages – erst aktivieren, wenn Lizenzfragen geklärt sind:
